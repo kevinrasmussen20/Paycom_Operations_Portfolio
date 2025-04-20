@@ -1,0 +1,101 @@
+RFP_ID,ClientID,ProspectiveClient,DateSubmitted,DateIssued,DateDue,Owner,Status,Value
+RFP001,C046,Jimenez-Scott,12/24/2024,3/19/2025,4/25/2025,Emily Stewart,Lost,627172
+RFP002,C023,Campbell-Johnson,2/16/2025,12/21/2024,4/21/2025,Theresa Harmon,Lost,867694
+RFP003,C021,Green Inc,10/21/2024,2/6/2025,4/18/2025,Deborah Griffin,Submitted,44420
+RFP004,C031,"Jimenez, Schmidt and Gomez",1/16/2025,11/14/2024,4/22/2025,Luis Allen,Lost,373324
+RFP005,C022,Lawrence LLC,11/18/2024,10/25/2024,5/3/2025,Erin Valenzuela,Lost,637327
+RFP006,C034,Evans-Brown,12/30/2024,11/1/2024,5/13/2025,Jared Madden,Pending,988045
+RFP007,C027,Stevens-Hernandez,4/7/2025,11/11/2024,5/8/2025,Emma Wyatt,Pending,575099
+RFP008,C012,Allen-Adams,1/7/2025,11/4/2024,5/10/2025,Robin Wilcox,Pending,554478
+RFP009,C046,Simpson Group,1/15/2025,1/10/2025,5/2/2025,Dr. Benjamin Long,Won,173690
+RFP010,C031,Oconnell Inc,11/4/2024,3/14/2025,5/9/2025,Laura Murray,Submitted,421392
+RFP011,C003,"Drake, Gomez and Gonzales",12/26/2024,12/12/2024,5/1/2025,David Davila,Won,271810
+RFP012,C005,Williams-Atkins,2/23/2025,11/4/2024,4/19/2025,Brent Anderson,Lost,385229
+RFP013,C039,Mckinney-Gonzalez,12/30/2024,2/13/2025,4/26/2025,Troy Bush,Submitted,269804
+RFP014,C018,"Frazier, Payne and Vega",3/28/2025,4/6/2025,5/15/2025,Tammy Moss,Lost,404680
+RFP015,C016,Houston PLC,4/6/2025,3/12/2025,4/27/2025,Krista Williams,Lost,623203
+RFP016,C007,Smith-Small,3/22/2025,3/17/2025,4/29/2025,Edward Johnson,Pending,768117
+RFP017,C030,"Johnson, Vaughn and Anderson",2/17/2025,12/2/2024,5/13/2025,Walter Lee,Won,254969
+RFP018,C034,Cobb-Calderon,1/18/2025,3/22/2025,4/25/2025,Alicia Whitehead,Submitted,668595
+RFP019,C016,Daniel LLC,3/29/2025,12/6/2024,5/14/2025,Brandon Scott,Lost,785911
+RFP020,C043,"Jenkins, Price and Orozco",10/29/2024,4/13/2025,5/16/2025,Amanda Thomas,Lost,506710
+RFP021,C004,Gonzales-Johnson,12/2/2024,12/5/2024,5/3/2025,Cassandra Buckley,Submitted,61206
+RFP022,C007,Parker-Gilbert,3/12/2025,11/20/2024,5/7/2025,Mary Greene,Lost,856282
+RFP023,C022,"Jimenez, Thompson and Jones",11/6/2024,3/27/2025,5/8/2025,James Peterson,Pending,435096
+RFP024,C011,Schwartz LLC,3/12/2025,12/19/2024,5/1/2025,Alyssa Salazar,Submitted,693925
+RFP025,C031,Owens Inc,10/31/2024,11/21/2024,5/1/2025,Melanie Gonzalez,Pending,754169
+RFP026,C032,"King, Morrison and Estes",3/14/2025,3/15/2025,5/14/2025,Lance Simmons,Submitted,335314
+RFP027,C032,"Bates, Robbins and Shields",10/18/2024,11/24/2024,5/5/2025,Michael Campos,Submitted,779402
+RFP028,C007,Edwards LLC,1/8/2025,10/29/2024,4/18/2025,Michael Romero,Pending,928075
+RFP029,C025,"Horne, Bailey and Norris",12/4/2024,10/31/2024,4/22/2025,Ann Adams,Pending,901518
+RFP030,C018,Hall-Lopez,12/13/2024,12/15/2024,4/22/2025,Eric Saunders,Submitted,729200
+RFP031,C041,Ray LLC,10/26/2024,12/5/2024,5/15/2025,Valerie Ramirez,Pending,476968
+RFP032,C014,Cook-Daniels,3/15/2025,3/11/2025,4/30/2025,William Lee,Pending,934381
+RFP033,C044,Reid Group,1/8/2025,4/5/2025,5/14/2025,Kevin Stewart,Won,427715
+RFP034,C045,James-Palmer,3/7/2025,1/30/2025,4/23/2025,Jordan Mueller,Won,504865
+RFP035,C014,Garrison and Sons,10/30/2024,10/16/2024,5/5/2025,Danielle Woods,Pending,48893
+RFP036,C021,"Townsend, Adkins and Bailey",1/24/2025,1/19/2025,5/13/2025,Elizabeth Novak,Pending,59544
+RFP037,C013,Warner and Sons,3/27/2025,11/27/2024,4/23/2025,Mark Jones,Pending,932881
+RFP038,C018,Howard-Malone,2/18/2025,11/6/2024,5/9/2025,Henry Wilson,Pending,741247
+RFP039,C030,"Gonzales, Lewis and Hood",4/2/2025,10/19/2024,4/29/2025,Nathan Perez,Pending,480407
+RFP040,C041,Yang-Mendez,3/17/2025,11/29/2024,5/7/2025,John Jacobson,Submitted,263625
+RFP041,C013,Day-Jordan,12/29/2024,12/31/2024,5/9/2025,Michael Boone,Won,321994
+RFP042,C025,"Allen, Pineda and Lopez",4/14/2025,11/16/2024,5/10/2025,Donald Kim,Pending,823739
+RFP043,C048,Scott Group,12/1/2024,1/4/2025,4/19/2025,Laura Walter,Won,401576
+RFP044,C008,Griffin-Richardson,12/28/2024,10/27/2024,4/21/2025,Christina Finley,Won,656982
+RFP045,C043,Bradley-Hampton,2/23/2025,11/1/2024,5/4/2025,Ashley Butler,Won,927873
+RFP046,C018,Brooks Ltd,1/2/2025,11/25/2024,4/20/2025,Eric Houston,Submitted,142196
+RFP047,C049,Ramirez PLC,3/5/2025,4/10/2025,4/19/2025,Jose Clark,Submitted,128378
+RFP048,C048,"Smith, Black and Castro",3/21/2025,1/31/2025,5/11/2025,James Hunt,Won,311457
+RFP049,C026,"Watts, Hoffman and Williamson",10/20/2024,10/29/2024,5/16/2025,Michael Owens,Won,90653
+RFP050,C039,Smith-Smith,10/26/2024,2/11/2025,5/11/2025,John Foster,Won,824200
+RFP051,C049,"Paul, Cohen and Perkins",12/19/2024,11/28/2024,5/2/2025,Latasha Mitchell,Won,75505
+RFP052,C049,"Anderson, Allen and Romero",10/22/2024,11/22/2024,5/3/2025,Dana Robinson,Lost,387439
+RFP053,C003,Shields Inc,2/10/2025,3/24/2025,4/26/2025,Mr. Ryan Lopez DDS,Lost,87537
+RFP054,C032,"Stone, Nguyen and Fitzgerald",11/6/2024,11/15/2024,4/17/2025,Michelle Gibson,Submitted,813948
+RFP055,C012,Pacheco LLC,11/6/2024,3/22/2025,5/9/2025,Robert Smith,Pending,983317
+RFP056,C004,Williams-Berg,2/24/2025,2/6/2025,5/13/2025,Frank Lester,Lost,607302
+RFP057,C018,Cohen-Rice,12/29/2024,1/8/2025,4/21/2025,Jeffrey Freeman,Pending,678274
+RFP058,C030,Wells-Hayes,3/5/2025,11/27/2024,5/16/2025,Lisa Price,Lost,897835
+RFP059,C046,"Mitchell, Moran and Moon",11/23/2024,4/2/2025,4/30/2025,Vanessa Brown,Won,891920
+RFP060,C007,"Bartlett, Simmons and Brooks",2/14/2025,2/19/2025,4/29/2025,Kimberly Rodriguez,Won,496737
+RFP061,C028,Ward-Allen,2/18/2025,12/8/2024,4/25/2025,Thomas Callahan,Pending,76796
+RFP062,C046,"Larson, Smith and Herman",4/3/2025,3/20/2025,5/6/2025,Michael Johnson,Won,605342
+RFP063,C041,Roberson-Wright,2/27/2025,2/21/2025,5/8/2025,Aaron Cooper,Pending,337082
+RFP064,C010,Robinson-Booth,1/29/2025,4/11/2025,5/12/2025,Bridget Tucker,Pending,606141
+RFP065,C003,Lam-Campos,1/1/2025,11/21/2024,5/4/2025,Brian Krause,Pending,783575
+RFP066,C034,Jones-Brown,12/15/2024,12/29/2024,4/24/2025,Oscar Bender,Pending,49435
+RFP067,C045,"Flynn, Sanford and Welch",2/26/2025,2/4/2025,4/21/2025,Kaitlin Harrington,Pending,847814
+RFP068,C029,"Warner, Shaw and Carpenter",1/15/2025,3/30/2025,5/5/2025,Karen Hester,Won,467158
+RFP069,C002,Gonzalez Group,10/25/2024,11/8/2024,5/6/2025,Kristy Wilson,Lost,18032
+RFP070,C016,"Roberson, Thompson and Sexton",12/13/2024,11/28/2024,5/6/2025,Janet Wiggins,Lost,808825
+RFP071,C047,"Finley, Blackburn and Johnson",1/2/2025,12/28/2024,5/6/2025,George Allen,Lost,107267
+RFP072,C008,Joyce-Castillo,3/11/2025,1/1/2025,5/9/2025,Alejandro Roberts,Submitted,820748
+RFP073,C041,Moore-Lewis,11/3/2024,3/22/2025,4/18/2025,Catherine Wright,Won,963450
+RFP074,C043,Krause PLC,10/22/2024,11/28/2024,5/6/2025,Robin Harrell,Pending,141900
+RFP075,C004,Brown Ltd,2/7/2025,11/27/2024,5/15/2025,John Riley,Lost,579350
+RFP076,C046,King-Jackson,2/1/2025,3/31/2025,4/27/2025,Angela Johnson,Pending,195991
+RFP077,C038,"Campos, Smith and Burke",10/26/2024,3/4/2025,5/7/2025,Sean Torres,Won,214847
+RFP078,C014,Watkins PLC,12/25/2024,12/4/2024,4/29/2025,Wesley Carey,Pending,195160
+RFP079,C034,"Andrews, Allen and Scott",11/24/2024,4/6/2025,4/30/2025,Marcus Harris,Lost,416883
+RFP080,C016,"Chavez, Knight and Giles",12/30/2024,4/11/2025,4/28/2025,Marc Griffin,Submitted,612653
+RFP081,C047,"Burns, Burns and Garcia",11/10/2024,4/5/2025,4/29/2025,Darius Watson,Lost,257125
+RFP082,C029,Yang Group,12/19/2024,12/26/2024,4/29/2025,Christina Hubbard,Pending,150033
+RFP083,C020,"Ramsey, Jenkins and Lara",3/7/2025,12/14/2024,5/14/2025,Juan Miller,Lost,888649
+RFP084,C022,Kim Group,3/12/2025,3/11/2025,5/16/2025,Steven Smith,Submitted,650207
+RFP085,C033,"Erickson, Giles and Hanson",11/28/2024,10/16/2024,5/9/2025,Lucas Reeves,Won,566266
+RFP086,C008,Vaughn-Odom,4/8/2025,3/5/2025,5/15/2025,Mary Holloway,Won,807110
+RFP087,C037,Martinez and Sons,10/19/2024,12/2/2024,5/5/2025,Mary Washington,Submitted,921788
+RFP088,C034,Price-Bryant,12/17/2024,2/9/2025,5/16/2025,Steven Ayala,Won,874900
+RFP089,C042,Rodriguez and Sons,12/3/2024,2/22/2025,5/1/2025,Jasmine Marshall,Submitted,416941
+RFP090,C048,Shaw Inc,10/17/2024,11/18/2024,5/8/2025,Jorge Chavez,Lost,234652
+RFP091,C037,Richard-Brown,1/17/2025,1/17/2025,4/22/2025,Wanda Barr,Submitted,319918
+RFP092,C019,Howard-Smith,3/12/2025,2/28/2025,5/6/2025,John Ramos,Lost,907683
+RFP093,C047,"Golden, Rodriguez and Moore",1/23/2025,4/8/2025,5/1/2025,Alexandra Floyd,Submitted,998088
+RFP094,C045,"Martinez, Smith and Taylor",11/1/2024,3/3/2025,4/28/2025,Erik Pittman,Pending,517371
+RFP095,C015,Douglas Inc,12/17/2024,4/6/2025,5/14/2025,Douglas Banks,Lost,33080
+RFP096,C017,Anderson Inc,2/5/2025,4/6/2025,5/13/2025,Megan Sampson,Pending,325155
+RFP097,C045,Coleman-Espinoza,3/19/2025,3/31/2025,5/5/2025,Jodi Haynes MD,Won,305030
+RFP098,C004,Warren-King,12/22/2024,1/15/2025,5/2/2025,Julia Mathis,Submitted,624213
+RFP099,C006,Morrow LLC,2/13/2025,2/22/2025,4/21/2025,Cindy Hopkins,Won,919540
+RFP100,C010,"Acosta, Herrera and Brewer",12/16/2024,2/6/2025,4/20/2025,Gina Morris,Pending,995602

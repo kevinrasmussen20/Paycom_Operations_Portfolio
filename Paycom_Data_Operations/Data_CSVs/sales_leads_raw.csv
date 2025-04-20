@@ -1,0 +1,526 @@
+LeadID,ClientID,LeadType,LeadStatus,CompanyName,ContactName,Email,Source,EntryDate,LastUpdated
+L0001,C034,New,New,"Johnson, Hernandez and James",Edward Mitchell,dustin75@example.net,Email Campaign,2025-02-14,2025-01-05
+L0002,C024,Existing,New,,Mitchell Freeman,kmiller@example.com,Web,2025-02-26,2025-02-02
+L0003,C050,New,Contacted,Jones-Martinez,Christine Kaufman,amcknight@example.org,Sales Rep,2025-02-14,2025-03-13
+L0004,C050,Existing,Converted,Garcia PLC,Dawn Ramirez,tlong@example.org,Trade Show,2024-10-24,2025-01-24
+L0005,C040,Existing,Contacted,"Freeman, Richardson and Morales",Allison Hogan,hmorris@example.net,Sales Rep,2025-01-21,2024-12-12
+L0006,C010,Existing,New,"Mathews, Crane and Calderon",Tammy Manning,phillip73@example.net,Web,2025-03-04,2024-11-11
+L0007,C014,New,Contacted,Ali-Freeman,Brian Peterson,hernandezmichael@example.net,Referral,2025-01-19,2025-03-21
+L0008,C041,New,Converted,Perez-Kim,Jeffery Johnson,padillaeric@example.com,Web,2024-12-31,2025-01-26
+L0009,C025,Existing,Qualified,"Dorsey, Austin and Moore",Joseph Colon,jhood@example.org,Email Campaign,2024-12-06,2025-01-17
+L0010,C032,Existing,New,Johnston-Smith,Vanessa Terry,brittanymcdonald@example.org,Email Campaign,2025-02-08,2025-01-01
+L0011,C015,Existing,New,Stevens-Bautista,Dale Smith,andrew12@example.com,Sales Rep,2025-03-27,2024-11-15
+L0012,C008,New,Contacted,Bryant and Sons,Adriana Best,jordanharper@example.org,Trade Show,2025-03-14,2025-03-05
+L0013,C019,New,New,Peterson Group,Joel Obrien,paullopez@example.com,Sales Rep,2024-12-20,2024-12-20
+L0014,C003,New,Contacted,Powell and Sons,Megan Morris,chris61@example.com,Trade Show,2024-12-24,2024-10-26
+L0015,C018,Existing,Converted,Romero-Morales,Jessica Smith,mpalmer@example.org,Web,2025-03-12,2025-03-27
+L0016,C017,New,New,Foster and Sons,Melanie Mills,dholmes@example.org,Web,2024-10-16,2025-03-06
+L0017,C030,New,Converted,"Nielsen, Le and Hill",Joshua Sherman,cford@example.net,Trade Show,2025-04-05,2024-11-13
+L0018,C040,Existing,Qualified,Brady-Todd,Amanda Buchanan,anthony36@example.net,Sales Rep,2024-10-18,2025-01-31
+L0019,C009,New,New,,Sherry Rios,vazquezkelly@example.org,Sales Rep,2025-03-12,2025-04-10
+L0020,C043,New,New,Thomas Inc,Jeffrey Huffman,mckenzie03@example.org,Referral,2024-12-31,2024-10-25
+L0021,C036,New,Contacted,Hines PLC,Robert Hancock,johnsonhannah@example.net,Sales Rep,2025-01-25,2025-02-22
+L0022,C022,Existing,Contacted,"Pitts, Dunn and Roberts",Frank Dyer,xjensen@example.org,Web,2024-10-16,2024-11-24
+L0023,C026,Existing,Qualified,"Green, Rodriguez and Williams",Carla Jackson,jenna37@example.org,Web,2025-04-13,2024-10-22
+L0024,C035,Existing,Qualified,"Wallace, Young and Porter",Brandon Campbell,garzaadam@example.com,Trade Show,2025-03-07,2025-02-11
+L0025,C009,Existing,New,Jordan-Horne,Miranda Jensen,markcompton@example.com,Web,2024-12-11,2025-01-05
+L0026,C046,New,Converted,"Johnson, Hernandez and Hudson",Stephanie Juarez,khuynh@example.com,Referral,2025-02-16,2025-02-03
+L0027,C021,New,Contacted,Brady-Lambert,Gerald Carey,eric25@example.net,Sales Rep,2024-12-08,2024-11-06
+L0028,C030,New,New,"Williams, Thompson and Carter",John Jones,dawn00@example.net,Email Campaign,2024-12-18,2025-03-07
+L0029,C018,Existing,Contacted,"Black, Howard and Watkins",Kenneth Aguirre,thomas93@example.org,Web,2024-11-29,2025-02-23
+L0030,C015,New,Converted,Baker-Drake,Corey Nichols,davislisa@example.org,Referral,2025-01-20,2024-12-10
+L0031,C043,Existing,Qualified,Goodwin-Noble,Travis Jones,johnsonleah@example.org,Trade Show,2025-03-19,2025-03-20
+L0032,C002,New,Qualified,"Phillips, Johnson and Armstrong",Heather Kane,bakerlisa@example.org,Trade Show,2024-12-30,2024-12-06
+L0033,C028,New,Contacted,Fields PLC,Brittany English,mduran@example.com,Email Campaign,2025-02-12,2024-11-11
+L0034,C015,Existing,Contacted,"Davis, Wilson and Kim",Margaret Wiggins,curtisbrooks@example.org,Referral,2024-11-12,2024-10-28
+L0035,C005,New,Contacted,Clark-Cunningham,,gloriajones@example.net,Web,2025-02-18,2024-11-09
+L0036,C011,Existing,New,Buchanan-Cummings,Troy Reyes,taylormiller@example.net,Referral,2025-01-29,2024-12-28
+L0037,C032,Existing,Converted,Wolf-Hansen,Jessica Jones,moorejames@example.com,Sales Rep,2025-04-04,2024-10-21
+L0038,C044,Existing,Qualified,Davis-Jones,David Jones,jesse34@example.org,Referral,2024-10-16,2024-10-26
+L0039,C017,New,New,Norman and Sons,Timothy Bullock,xadams@example.com,Sales Rep,2024-12-21,2025-03-05
+L0040,C021,Existing,Qualified,Duncan PLC,Cynthia Cook,christianharris@example.com,Sales Rep,2025-03-21,2024-10-28
+L0041,C007,New,New,Harris Inc,Thomas Thomas,dblackwell@example.org,Referral,2025-02-11,2025-03-21
+L0042,C009,Existing,Contacted,"Phillips, Hancock and Webster",Matthew Frost,valerieerickson@example.net,Referral,2025-02-14,2025-01-27
+L0043,C031,New,New,"Ruiz, Durham and Morris",Christina Martinez,susan43@example.com,Email Campaign,2025-01-01,2024-12-19
+L0044,C009,Existing,Contacted,Sosa Inc,Paula Murillo,martinmelinda@example.org,Email Campaign,2025-01-23,2025-02-26
+L0045,C008,New,Contacted,"Moreno, Cardenas and Noble",Kelly Clark,,Web,2025-01-22,2025-04-09
+L0046,C040,Existing,Qualified,Rojas-White,Janet Hughes,daniellelee@example.org,Referral,2025-03-28,2025-02-11
+L0047,C043,Existing,Converted,"Mason, Young and Brown",Adam Gomez,tholland@example.net,Trade Show,2025-04-16,2025-03-05
+L0048,C013,Existing,Contacted,Delacruz Inc,Gary Pena,lisa75@example.org,Trade Show,2024-10-19,2024-11-09
+L0049,C011,New,Qualified,Steele Group,Stephanie Martin,ssantiago@example.net,Trade Show,2024-12-15,2025-02-19
+L0050,C009,New,Qualified,Williams PLC,Patricia Lee,robertlopez@example.org,Referral,2025-02-28,2025-01-24
+L0051,C025,New,Contacted,"Kelly, Perez and Serrano",Janet Ortiz,timothy28@example.org,Trade Show,2025-01-24,2025-03-10
+L0052,C014,New,Contacted,"Doyle, Cole and Wood",,johntaylor@example.net,Trade Show,2025-01-22,2025-01-15
+L0053,C028,Existing,Qualified,Curry LLC,Willie Washington,vthornton@example.com,Email Campaign,2024-10-28,2025-03-28
+L0054,C012,New,Qualified,"Petersen, Moran and Diaz",Lauren Nguyen,jmckee@example.org,Web,2024-12-01,2024-11-04
+L0055,C007,Existing,New,"Sharp, Morris and Morales",Jessica Ryan,taylor41@example.org,Email Campaign,2025-02-11,2024-11-10
+L0056,C032,Existing,Qualified,"Dyer, Rogers and Cain",Robert Morris,erica32@example.com,Trade Show,2025-03-07,2024-10-22
+L0057,C035,New,Qualified,"Harris, Beard and Bradley",Thomas Hernandez,juliemorris@example.com,Email Campaign,2025-02-27,2025-03-11
+L0058,C048,Existing,Qualified,Adams-Ray,Jacob Smith,pcherry@example.org,Email Campaign,2025-04-12,2024-11-24
+L0059,C015,Existing,New,"Petty, Day and Brown",Danielle Barajas,vjohnson@example.org,Web,2025-01-08,2025-03-03
+L0060,C042,New,New,Shelton-Tanner,Kelsey Turner,margaretcruz@example.org,Trade Show,2024-11-11,2024-12-17
+L0061,C003,New,Contacted,"Mcdaniel, Barnes and Hendricks",,simmonskathy@example.com,Sales Rep,2024-12-03,2024-11-19
+L0062,C022,Existing,New,Hartman-Simpson,Colin Travis,adriancarroll@example.org,Sales Rep,2025-04-08,2025-02-06
+L0063,C050,Existing,New,"Ferguson, Thomas and Allen",Stephanie Jackson,pharding@example.com,Trade Show,2025-03-20,2025-03-04
+L0064,C041,New,Converted,Wright and Sons,Jerry White,,Web,2025-01-09,2024-11-29
+L0065,C047,Existing,Converted,Ortiz-Davis,Darren House,sherrypierce@example.com,Trade Show,2025-02-05,2025-04-16
+L0066,C033,Existing,Qualified,"Miller, Lopez and Ward",Amy Bennett,,Web,2024-11-29,2025-04-02
+L0067,C042,New,Converted,"Anderson, Walker and Robbins",Alyssa Crawford,mark51@example.net,Sales Rep,2025-01-10,2024-12-13
+L0068,C040,Existing,Contacted,,Mary Chapman,michaelfox@example.com,Email Campaign,2025-03-05,2025-03-11
+L0069,C009,New,Qualified,Frye-Jones,Justin Berry,johnathan92@example.net,Referral,2024-10-28,2025-01-26
+L0070,C047,New,Contacted,Waller PLC,Crystal Jackson,farrellmarie@example.org,Trade Show,2025-01-23,2025-04-16
+L0071,C039,Existing,Converted,Brown LLC,David Tanner,josesmith@example.org,Email Campaign,2025-03-22,2024-10-24
+L0072,C008,Existing,Contacted,Jones-Casey,Zachary Barnes,spark@example.org,Trade Show,2025-01-19,2024-10-30
+L0073,C019,Existing,Qualified,Smith-Lara,Veronica Waters,carterdanny@example.net,Referral,2024-11-27,2024-10-28
+L0074,C048,New,Converted,Collins-Padilla,Melissa Mcdonald,annenoble@example.com,Email Campaign,2025-01-24,2025-03-18
+L0075,C006,Existing,Contacted,Raymond LLC,James Larson,olee@example.org,Sales Rep,2024-12-07,2025-01-25
+L0076,C037,New,Converted,Downs-Cunningham,Juan Brooks,butlerkelly@example.net,Sales Rep,2024-10-30,2025-03-11
+L0077,C027,Existing,Qualified,"Grant, Branch and Herring",Sierra Huang,rdavis@example.net,Email Campaign,2024-12-21,2025-03-18
+L0078,C022,Existing,Converted,"Sloan, Ashley and Zuniga",Denise Potts,katelynwatson@example.com,Email Campaign,2025-01-08,2024-11-18
+L0079,C050,New,New,,Michael Reyes,xsanford@example.net,Referral,2024-12-30,2025-04-06
+L0080,C032,New,Contacted,,Rachel Morgan,michaelferguson@example.net,Sales Rep,2025-02-17,2025-03-21
+L0081,C033,Existing,Qualified,Erickson Ltd,Natalie Marquez,flewis@example.net,Sales Rep,2025-03-17,2024-11-02
+L0082,C016,New,Converted,,Michael Cooper,michellerosales@example.org,Sales Rep,2025-03-12,2024-11-28
+L0083,C004,Existing,Qualified,"Howell, Watts and Hall",Ashley Ramirez,jessica02@example.net,Referral,2024-12-19,2024-12-10
+L0084,C013,New,Qualified,Jacobs Group,Lori Ramirez,katherine36@example.net,Email Campaign,2025-01-29,2025-03-21
+L0085,C023,Existing,Qualified,Jennings LLC,Brenda Haley,karensimpson@example.com,Trade Show,2025-02-14,2024-10-21
+L0086,C050,New,Qualified,Suarez-Weeks,Suzanne Bowman,deannaclark@example.com,Email Campaign,2024-12-24,2025-02-08
+L0087,C036,Existing,Converted,Wiley-Whitney,Stephen Craig,jeffrey75@example.com,Sales Rep,2024-10-27,2024-12-24
+L0088,C014,New,Qualified,Valdez Group,Jennifer Caldwell,grossfrank@example.com,Referral,2025-02-26,2024-11-26
+L0089,C011,Existing,New,"Boyd, Brown and Rodriguez",Danielle Ramirez,veronica33@example.com,Sales Rep,2024-12-08,2024-11-21
+L0090,C014,Existing,Converted,Kaufman LLC,Charles Hill,,Email Campaign,2025-03-30,2025-02-07
+L0091,C009,Existing,Converted,Middleton Ltd,Christine Adkins,sanchezjacob@example.net,Trade Show,2024-11-04,2024-11-09
+L0092,C022,New,Contacted,Evans-Long,Daniel Cordova,garciaryan@example.net,Trade Show,2024-11-24,2025-03-21
+L0093,C046,Existing,Contacted,Howard PLC,Jasmine Rhodes,rosejames@example.org,Email Campaign,2024-10-24,2024-12-21
+L0094,C032,Existing,Contacted,Frye and Sons,Brittany Oconnor,carl58@example.org,Trade Show,2025-01-14,2025-01-28
+L0095,C029,New,Contacted,Deleon-Martin,Ashley Davis,hadams@example.org,Email Campaign,2025-03-12,2024-10-24
+L0096,C038,New,Converted,"Ray, Jordan and Medina",Tony Bradley,shari98@example.net,Sales Rep,2024-11-13,2025-02-22
+L0097,C041,New,Contacted,Williams PLC,Heather Carpenter,fcowan@example.net,Email Campaign,2025-02-08,2025-03-05
+L0098,C050,New,Qualified,Beck Inc,Angela Burns,felicia89@example.com,Sales Rep,2024-11-04,2024-12-23
+L0099,C017,New,New,Evans Group,Frank Floyd,ashleymaxwell@example.org,Email Campaign,2024-12-14,2025-03-23
+L0100,C007,Existing,New,Matthews-Wade,Jenna Perez,garywilson@example.net,Web,2025-04-04,2025-02-28
+L0101,C006,New,Converted,Pennington LLC,Diane Martin,zunigawilliam@example.com,Email Campaign,2024-12-19,2025-02-21
+L0102,C015,Existing,Qualified,,Grace Gardner,swalters@example.org,Sales Rep,2025-03-21,2025-02-01
+L0103,C049,Existing,New,"Richard, Allen and Schultz",Dustin Riley,tracy44@example.com,Trade Show,2024-12-10,2024-12-08
+L0104,C002,New,Qualified,Warner Group,Breanna Sims,annaharvey@example.com,Sales Rep,2025-02-11,2024-12-20
+L0105,C042,New,Contacted,Lane-Phillips,Elizabeth Barnett,longshelia@example.com,Trade Show,2024-10-29,2025-04-02
+L0106,C013,Existing,Contacted,Dominguez-Young,Mariah Santiago,dtaylor@example.net,Referral,2024-12-27,2024-12-06
+L0107,C035,New,Converted,"Doyle, Bray and Mitchell",Jennifer Jackson,stephensdustin@example.com,Email Campaign,2024-11-08,2025-02-18
+L0108,C026,New,Qualified,Bailey Group,Scott Morse,alyssa06@example.com,Referral,2024-11-23,2025-04-09
+L0109,C014,New,Converted,Lambert LLC,Jose Wolfe,sarahdean@example.net,Web,2024-10-18,2025-04-01
+L0110,C011,Existing,New,Morales-Williams,Katherine Murphy,amanda15@example.org,Referral,2025-02-16,2024-12-11
+L0111,C034,Existing,Contacted,Welch-Bell,Alexis Ferguson,qwilson@example.net,Web,2025-03-02,2025-03-06
+L0112,C017,Existing,Qualified,Krause and Sons,Spencer Montgomery,richardreynolds@example.net,Trade Show,2025-02-16,2024-10-27
+L0113,C037,New,Converted,Mcpherson-Phelps,Warren Mills,kaitlyn37@example.org,Web,2025-04-16,2025-01-18
+L0114,C019,New,Qualified,Harvey Ltd,Aaron Frazier DDS,jeremy22@example.com,Web,2025-02-16,2025-03-05
+L0115,C040,New,Qualified,"Smith, Bruce and Summers",Maria Green,whall@example.org,Trade Show,2025-03-06,2025-03-25
+L0116,C037,Existing,Qualified,Miller-Vargas,Pamela Welch,perryphillips@example.com,Trade Show,2025-01-08,2024-11-26
+L0117,C045,New,Converted,Lewis Group,Robert Young,bwaller@example.com,Referral,2024-10-19,2024-10-20
+L0118,C050,Existing,Contacted,"Williams, Graham and Silva",Daniel Hall,qcook@example.com,Email Campaign,2025-03-20,2025-02-16
+L0119,C028,Existing,Qualified,Gonzalez-Jones,Randy Cabrera DDS,braymichael@example.org,Referral,2024-10-23,2025-03-18
+L0120,C003,Existing,New,"Perez, Weaver and Cunningham",,steven17@example.com,Trade Show,2024-10-31,2025-01-22
+L0121,C034,Existing,Contacted,"Peters, Jones and Willis",Todd Cooper,jadetaylor@example.net,Email Campaign,2025-01-23,2025-04-04
+L0122,C048,Existing,Contacted,Davies and Sons,Heather Thomas,allenchristopher@example.org,Trade Show,2024-10-21,2024-11-23
+L0123,C046,New,Qualified,King-Pittman,Kristin Shaffer,meghan15@example.net,Web,2025-02-01,2024-12-04
+L0124,C027,Existing,New,Sanchez Inc,,raymondgutierrez@example.com,Referral,2024-10-26,2024-12-19
+L0125,C017,New,Contacted,Richard-Fuentes,Lauren Perez,davischarles@example.net,Sales Rep,2025-01-23,2025-01-11
+L0126,C001,New,Converted,Black Inc,Susan Flores,jonesjennifer@example.com,Sales Rep,2024-10-26,2025-03-21
+L0127,C017,New,New,Lyons LLC,Caleb Barnett,curtisashley@example.net,Sales Rep,2025-03-02,2024-12-16
+L0128,C012,New,Converted,Rhodes-Bray,Randall Robbins,smithroger@example.net,Email Campaign,2025-01-12,2024-10-18
+L0129,C046,Existing,Contacted,Phillips-Avila,Karen Meyer,penadaniel@example.com,Web,2025-01-22,2025-01-14
+L0130,C026,New,Contacted,Chavez PLC,,stephenmitchell@example.org,Trade Show,2025-03-16,2025-01-29
+L0131,C010,New,New,Herrera-Cohen,Katie Austin,pbowen@example.org,Referral,2025-03-15,2024-10-28
+L0132,C027,New,Contacted,Woods LLC,Desiree Shields,nwagner@example.org,Referral,2025-03-18,2024-11-17
+L0133,C003,Existing,Qualified,Andrade PLC,Wendy English,michaelfuller@example.com,Web,2025-02-14,2024-11-13
+L0134,C028,New,New,Taylor LLC,Susan Washington,haynesshawn@example.net,Referral,2024-12-12,2025-03-05
+L0135,C026,New,Qualified,Drake-Phillips,Donald Blair,,Email Campaign,2025-04-05,2024-11-18
+L0136,C016,New,Converted,"Norton, Vaughn and Davis",Sarah Terry,anthony40@example.org,Web,2025-02-21,2025-01-27
+L0137,C036,New,Qualified,,Terry Jacobs,nnelson@example.com,Email Campaign,2025-03-15,2024-11-28
+L0138,C042,Existing,Qualified,Ochoa-May,Amanda Hanson,,Email Campaign,2025-02-20,2025-02-03
+L0139,C014,New,Converted,"Murphy, Brown and Drake",Tyler Becker,michael74@example.net,Email Campaign,2025-02-24,2025-03-17
+L0140,C024,Existing,New,Williams LLC,Daniel Robertson,robert83@example.net,Email Campaign,2025-02-16,2024-11-19
+L0141,C041,New,Converted,"Hughes, Estrada and Owens",Heather Johnson,renee62@example.com,Sales Rep,2024-11-24,2024-12-19
+L0142,C013,New,Contacted,Stevens-Smith,James Myers,melissagibson@example.net,Trade Show,2024-10-30,2025-01-29
+L0143,C039,New,Contacted,"Davis, Woodard and Wallace",David Adams,daniel18@example.net,Web,2024-12-19,2025-03-17
+L0144,C016,New,Qualified,Daniel and Sons,Casey Mccarty,cassandradiaz@example.com,Web,2025-02-22,2024-11-01
+L0145,C041,Existing,Qualified,Lambert Inc,Felicia Alexander,kellyjohnson@example.org,Email Campaign,2024-12-19,2025-03-03
+L0146,C043,New,Contacted,Good PLC,Jonathan Brown,deborah71@example.net,Sales Rep,2025-04-01,2024-12-09
+L0147,C004,Existing,Contacted,Kane Ltd,Laura Bennett,james93@example.com,Trade Show,2024-12-08,2025-02-16
+L0148,C012,Existing,Converted,Hansen-Howell,Michael Palmer,pennymoss@example.com,Web,2025-01-17,2024-12-10
+L0149,C009,Existing,Contacted,"Gonzales, Anderson and Silva",Matthew Andrade,robert44@example.net,Trade Show,2025-04-05,2025-02-16
+L0150,C018,Existing,Contacted,"Rivers, Williams and Marsh",Nathan Salas,zachary05@example.net,Sales Rep,2025-02-04,2024-12-11
+L0151,C019,Existing,Qualified,Mejia-Salinas,Raymond Clark,jennacunningham@example.net,Referral,2025-01-16,2024-12-24
+L0152,C040,New,New,Todd Inc,Jacob Rose,laura03@example.org,Referral,2025-03-01,2025-02-10
+L0153,C011,Existing,Contacted,"Miller, Frederick and Rowe",Kimberly Jones,pwarren@example.com,Email Campaign,2025-01-29,2024-12-17
+L0154,C002,Existing,Converted,Gomez-Berry,Bruce Carter,efranklin@example.com,Trade Show,2025-03-20,2024-11-04
+L0155,C011,New,Qualified,,Richard Jordan,rogerselizabeth@example.org,Referral,2025-03-27,2025-01-14
+L0156,C038,Existing,Contacted,Riley-King,Tiffany Johnson DVM,michaelmurphy@example.org,Referral,2025-01-26,2024-10-30
+L0157,C029,New,Qualified,Brown Ltd,Dr. Cheyenne Parsons,xmcclure@example.com,Web,2025-02-13,2024-11-22
+L0158,C032,New,New,"Perry, Morse and Ray",Bernard Bates,cgardner@example.com,Email Campaign,2025-04-12,2024-10-18
+L0159,C025,Existing,Converted,Fuller-Hanson,Michael Brooks,natalie27@example.com,Referral,2025-03-23,2025-03-31
+L0160,C043,New,Contacted,"Hall, Smith and Campbell",Nancy Johnson,laura49@example.net,Trade Show,2025-04-01,2025-01-23
+L0161,C028,Existing,Contacted,Young-Jensen,Olivia Coleman,woodjon@example.net,Sales Rep,2025-02-26,2025-03-19
+L0162,C043,Existing,Qualified,"Holmes, Mayer and Cochran",David James,victor96@example.org,Web,2025-01-22,2025-02-05
+L0163,C004,New,Contacted,Carpenter-Bowers,Daniel Wilson,yryan@example.com,Email Campaign,2024-11-04,2025-03-04
+L0164,C001,Existing,Contacted,"Richardson, Miller and Cruz",Corey Hardin,nchapman@example.org,Trade Show,2025-03-31,2024-10-26
+L0165,C032,New,New,Velez-Butler,Janice Johnson,fneal@example.net,Web,2025-01-08,2024-12-17
+L0166,C033,Existing,Contacted,"Gonzales, Davis and Pearson",Andrew Soto,asimmons@example.net,Referral,2024-12-22,2024-12-03
+L0167,C044,Existing,New,Jordan-Greene,Andrea Roberts,vrose@example.com,Trade Show,2024-12-26,2025-02-03
+L0168,C030,New,Qualified,"Baldwin, Tran and Payne",Shannon Costa,vaguirre@example.net,Web,2024-12-03,2025-02-08
+L0169,C046,Existing,New,Clarke Group,Francis Turner,clopez@example.com,Email Campaign,2025-02-03,2025-02-12
+L0170,C022,Existing,New,Garcia-Coleman,Sharon Mason,alexandra16@example.net,Referral,2025-01-05,2025-04-01
+L0171,C027,New,Qualified,"Smith, Thomas and Taylor",Luke Jones MD,moyerkaren@example.net,Referral,2024-10-16,2024-11-06
+L0172,C028,Existing,New,"Butler, Cole and Mckinney",Daniel Ferguson,hurstmichael@example.org,Web,2024-11-04,2024-12-20
+L0173,C007,Existing,Qualified,Jones-Walker,Jessica Benton,odavis@example.org,Sales Rep,2025-01-06,2025-04-09
+L0174,C014,New,New,Nichols Ltd,Wesley Underwood,mramos@example.com,Sales Rep,2025-03-12,2025-01-08
+L0175,C002,New,Converted,Barr Inc,Amy Stevens,whitneyburnett@example.org,Trade Show,2025-01-21,2025-02-12
+L0176,C041,Existing,New,Ewing-Brock,Hailey Martinez,jeffrey31@example.org,Referral,2025-01-28,2025-01-15
+L0177,C021,Existing,Converted,Walker Ltd,Michele Cohen,joel92@example.net,Trade Show,2024-12-27,2024-11-12
+L0178,C017,New,New,Martinez-Hamilton,Joshua Long,elizabeth96@example.org,Sales Rep,2024-12-08,2024-11-08
+L0179,C037,New,Contacted,Patterson Group,Jennifer Santos,ronaldhubbard@example.net,Email Campaign,2025-01-28,2025-04-06
+L0180,C021,Existing,New,"Cochran, Gardner and Nelson",Mackenzie Taylor DDS,ray58@example.org,Email Campaign,2024-12-15,2025-04-08
+L0181,C001,New,Converted,Guerrero Group,Paul Johnson,dianawhite@example.net,Sales Rep,2025-03-20,2024-12-17
+L0182,C014,New,New,"Williams, Johnson and Hatfield",Andrea Gonzalez,tmartin@example.net,Trade Show,2025-03-17,2025-01-22
+L0183,C039,New,New,"Hancock, Gray and Mitchell",Mrs. Hannah Diaz DVM,jonesjoshua@example.com,Referral,2025-03-12,2025-02-20
+L0184,C040,New,Qualified,Salazar and Sons,Maria Harrison,jlyons@example.org,Referral,2025-03-24,2024-12-05
+L0185,C015,New,Converted,Taylor-Zimmerman,Adam Johnson,sullivanamber@example.com,Trade Show,2025-04-04,2025-03-13
+L0186,C042,New,Contacted,Davis-Johnson,David Mendoza,joyramirez@example.com,Trade Show,2024-11-09,2024-12-24
+L0187,C048,Existing,Converted,Mathis-Meadows,Michael Moore,cfarmer@example.net,Referral,2024-12-11,2025-04-10
+L0188,C037,New,Contacted,Wilson PLC,Amy Perez,williamrogers@example.com,Trade Show,2024-11-21,2025-01-16
+L0189,C047,Existing,Converted,Ramos PLC,James Lawson,hodgescarol@example.net,Sales Rep,2025-04-10,2024-12-08
+L0190,C033,Existing,Converted,Sanders-Stone,Traci Riggs,prestonwilliam@example.net,Trade Show,2024-12-09,2025-01-15
+L0191,C028,Existing,Converted,"Mckinney, Brewer and White",Mary Atkins,carlybrown@example.net,Sales Rep,2024-12-07,2024-11-09
+L0192,C042,New,Contacted,"Ortiz, Decker and Luna",Susan Walsh,riverajoseph@example.org,Email Campaign,2025-02-02,2025-01-07
+L0193,C011,New,Converted,"Hodges, Rivera and Rivera",Alyssa Stephens,kirsten47@example.net,Sales Rep,2024-11-18,2025-03-14
+L0194,C005,New,Qualified,Collins-Soto,William French,kclark@example.org,Web,2025-02-10,2025-03-09
+L0195,C006,Existing,Converted,Johns-Garcia,Leah Wilson,alexanderbenjamin@example.org,Web,2025-01-27,2025-04-04
+L0196,C002,New,Qualified,,Devon Cook,susannewton@example.net,Email Campaign,2025-04-09,2024-12-14
+L0197,C041,New,Qualified,Mitchell-Richards,Todd Hebert,hmorrison@example.org,Sales Rep,2025-03-03,2024-11-21
+L0198,C043,New,Contacted,Hernandez LLC,Willie Harper,qsmith@example.com,Email Campaign,2024-12-08,2025-01-22
+L0199,C015,Existing,New,"Cameron, Ortiz and York",Alyssa Douglas,teresabowers@example.com,Referral,2024-12-30,2024-12-16
+L0200,C004,New,New,"Hughes, Lewis and Lin",Michael Ellis,jason15@example.net,Email Campaign,2024-11-03,2024-11-03
+L0201,C026,New,Contacted,Phelps-David,Cindy Jackson,qsmith@example.net,Trade Show,2024-10-25,2024-11-16
+L0202,C036,Existing,Contacted,"Ellis, Henderson and Moon",Eric Velasquez,daniel58@example.org,Email Campaign,2024-11-13,2025-02-11
+L0203,C012,Existing,Converted,Edwards LLC,Brianna Mercado,hamiltonbeth@example.com,Web,2025-03-11,2025-04-11
+L0204,C020,New,New,Rivera-Lucas,Mary Davis,ktaylor@example.com,Email Campaign,2025-01-24,2025-04-14
+L0205,C046,Existing,Converted,"Price, Robertson and Crawford",Grace Reeves,nathanthompson@example.net,Referral,2024-12-01,2024-12-27
+L0206,C022,Existing,New,Michael Ltd,Brent Torres,mgarrett@example.com,Referral,2024-11-05,2024-12-15
+L0207,C032,New,Qualified,Walker-Baldwin,William Scott,perrynolan@example.org,Web,2025-01-15,2024-11-17
+L0208,C027,New,Converted,"Austin, Smith and Jackson",Justin Ramsey PhD,anthonybranch@example.net,Email Campaign,2024-12-29,2025-04-15
+L0209,C019,Existing,Qualified,Montgomery Inc,Jacob Leonard,sarah55@example.org,Email Campaign,2025-01-11,2025-01-09
+L0210,C049,New,Qualified,Berg-Donaldson,Nicole Holden,emoore@example.net,Web,2025-01-15,2025-02-19
+L0211,C018,Existing,Qualified,"Watson, Nguyen and Hill",Nathan Davis,robert45@example.com,Email Campaign,2025-03-01,2024-12-26
+L0212,C021,Existing,Contacted,Cook Inc,,david65@example.org,Trade Show,2024-10-19,2024-12-18
+L0213,C048,Existing,New,Campbell Inc,Roberta Kennedy,dmeyer@example.net,Referral,2024-12-01,2024-10-20
+L0214,C032,Existing,New,Ward-Garcia,Nathaniel West,henrystevenson@example.org,Trade Show,2025-04-07,2024-11-26
+L0215,C026,New,Contacted,"Mathis, Berry and Kramer",Julie Mendez,johnsonjames@example.com,Referral,2025-03-10,2025-04-12
+L0216,C032,New,New,Woods Group,Douglas Smith,robert63@example.com,Referral,2025-03-25,2024-11-26
+L0217,C011,New,New,Melton and Sons,Tracey York,ramirezjohn@example.net,Email Campaign,2025-04-16,2025-01-05
+L0218,C009,Existing,Contacted,Myers LLC,Erin Weeks,bperez@example.org,Referral,2024-10-17,2024-11-09
+L0219,C028,Existing,Converted,Ingram PLC,Randall Krueger,,Email Campaign,2024-11-22,2025-01-30
+L0220,C008,New,Converted,Wade-Salas,Luke Terry,jamesjoel@example.net,Trade Show,2025-01-15,2025-02-14
+L0221,C031,Existing,New,Potter-Brown,Randall Norris,bryanwilson@example.org,Web,2024-12-23,2025-03-26
+L0222,C044,New,Converted,Peterson and Sons,Kara Martin,emilydavis@example.net,Referral,2025-01-29,2025-03-29
+L0223,C043,Existing,Contacted,Mccoy PLC,Stanley Gonzalez,mcdonaldnathan@example.net,Trade Show,2024-11-17,2025-03-04
+L0224,C014,Existing,Converted,,Christina Castro,vholmes@example.org,Trade Show,2024-11-15,2025-02-21
+L0225,C010,New,New,"Ingram, Gonzalez and Cooper",John Thomas MD,josephrollins@example.com,Sales Rep,2024-11-06,2024-10-18
+L0226,C026,New,Converted,Leonard Ltd,Kenneth Schmidt,michael97@example.org,Trade Show,2024-11-28,2025-04-09
+L0227,C015,New,Contacted,Bell Group,Donald Arnold,beth13@example.net,Trade Show,2025-02-04,2025-01-26
+L0228,C019,New,Qualified,Davis Group,Phillip Jackson II,jesse86@example.net,Sales Rep,2025-01-26,2025-02-26
+L0229,C049,New,Converted,"Wolf, Wall and Simpson",Ashley Welch,cooperbrittany@example.com,Trade Show,2025-01-30,2025-02-27
+L0230,C013,New,Qualified,Bautista-Potts,Stephen Munoz,annawhite@example.org,Sales Rep,2025-02-17,2025-01-24
+L0231,C018,New,New,Rodriguez LLC,Richard Miller,debra05@example.net,Web,2025-03-23,2025-04-08
+L0232,C013,New,Contacted,"Hanson, Ramos and Nash",,geraldsmith@example.com,Trade Show,2024-10-27,2024-12-30
+L0233,C042,New,Qualified,Le-Hernandez,Grace Reilly,jacksonroger@example.org,Sales Rep,2024-11-16,2025-03-24
+L0234,C038,Existing,Contacted,"Dunn, Peterson and Garner",Rachel Brown,zmcintyre@example.org,Trade Show,2025-01-02,2025-03-23
+L0235,C005,New,New,"Whitehead, Miller and Spears",Christopher Solis,john19@example.com,Web,2024-12-03,2024-11-08
+L0236,C025,New,Converted,"Fox, Vasquez and Harrison",Dr. Thomas Ware,murphyjennifer@example.net,Sales Rep,2025-01-28,2024-10-30
+L0237,C019,New,Qualified,"Hamilton, Savage and Escobar",Earl Wilson,darryl63@example.com,Referral,2024-12-12,2025-03-26
+L0238,C011,New,Converted,Herring-Thomas,Christian Holden,castillorobert@example.com,Sales Rep,2025-03-04,2024-12-27
+L0239,C040,New,Contacted,Holmes and Sons,,marcuslambert@example.com,Sales Rep,2024-11-27,2025-01-15
+L0240,C022,Existing,Converted,"Stanton, Webb and Mejia",Kristen Banks,brittanyrollins@example.net,Trade Show,2025-02-18,2025-01-17
+L0241,C004,New,Contacted,,Susan Rosales,rpeterson@example.org,Sales Rep,2025-02-05,2025-02-06
+L0242,C036,Existing,Qualified,,Michael Fischer,branchanthony@example.net,Referral,2024-10-22,2025-03-27
+L0243,C033,Existing,Contacted,Nash PLC,Linda Thomas,cassandrachen@example.org,Web,2024-11-29,2024-11-06
+L0244,C048,Existing,Converted,"Wilson, Baker and Wallace",Brett Wells,deborah42@example.net,Email Campaign,2025-01-20,2025-01-03
+L0245,C024,New,Converted,Burns LLC,Tonya Mcgrath,kjohnson@example.org,Web,2024-11-22,2025-01-15
+L0246,C047,Existing,New,Brown-Black,Kyle Stevenson,curtiswilliam@example.com,Trade Show,2025-01-02,2025-02-18
+L0247,C027,Existing,Converted,"Glass, Brady and Harris",Joshua White,ljackson@example.net,Sales Rep,2025-01-25,2025-02-16
+L0248,C011,New,Contacted,Lyons Group,Samantha Byrd,ericadiaz@example.net,Trade Show,2025-01-20,2025-03-31
+L0249,C031,Existing,Qualified,"Johnston, Mora and Vega",Meghan Kane,victoria20@example.com,Email Campaign,2024-12-13,2025-04-01
+L0250,C043,Existing,Qualified,"Rasmussen, Harris and Pearson",Kathleen Proctor,jacobcummings@example.com,Trade Show,2025-04-08,2025-02-25
+L0251,C025,Existing,Converted,"Dickson, Stephens and Mckee",Lisa Hall,christiantrujillo@example.net,Sales Rep,2025-01-21,2024-11-04
+L0252,C009,Existing,Contacted,"Fox, Pittman and Thomas",Douglas Garcia,patriciachen@example.net,Sales Rep,2024-10-31,2025-01-15
+L0253,C027,New,Converted,Hart PLC,Timothy Meyer,ralph09@example.com,Trade Show,2025-01-18,2024-11-20
+L0254,C035,New,New,"Jimenez, Li and Davidson",Gary Rivera,jackie88@example.net,Email Campaign,2025-01-07,2025-04-06
+L0255,C022,New,New,"Sanders, Mcknight and Thomas",James Thomas,lwilkins@example.org,Web,2024-12-28,2024-12-13
+L0256,C005,Existing,Converted,Davis LLC,Timothy Gill,ukirk@example.org,Email Campaign,2025-01-17,2025-02-05
+L0257,C048,Existing,Contacted,Griffin and Sons,Joseph Brown DDS,wilsoncaitlyn@example.com,Sales Rep,2024-11-17,2024-11-26
+L0258,C035,New,Converted,"Summers, Lopez and Hall",Karen Wagner,millerbrian@example.net,Referral,2024-12-09,2025-04-15
+L0259,C008,Existing,Converted,"Rowland, Chandler and Valdez",Samantha Grant,bcervantes@example.org,Sales Rep,2024-11-20,2025-04-12
+L0260,C027,Existing,New,Sanchez Group,Samantha Coleman,calderonsusan@example.com,Trade Show,2024-12-07,2025-01-28
+L0261,C032,Existing,Converted,,Matthew Price,phelpsnicole@example.org,Sales Rep,2025-03-06,2025-03-14
+L0262,C014,Existing,New,Wilson Group,Calvin Berry,moniquesmith@example.net,Web,2024-12-17,2024-12-01
+L0263,C007,New,Converted,Jenkins-Mccall,Melanie Martin,dana63@example.org,Email Campaign,2025-03-27,2025-02-09
+L0264,C020,New,Qualified,Hill-Cooper,James Johnson,keith91@example.org,Email Campaign,2024-11-14,2025-01-13
+L0265,C045,New,Qualified,Maldonado-Williams,Sherry Hill,michael95@example.net,Referral,2025-01-23,2025-04-01
+L0266,C023,Existing,Contacted,Washington and Sons,,schmidtdavid@example.org,Referral,2024-11-12,2024-10-19
+L0267,C025,New,Qualified,"Johnson, Miranda and Jones",Kevin Palmer,ariana75@example.com,Referral,2024-11-23,2025-03-07
+L0268,C039,New,New,Miranda-Kent,Denise Anderson,bjohnson@example.com,Sales Rep,2025-01-26,2025-01-18
+L0269,C020,New,Qualified,Munoz-Murphy,Mrs. Suzanne Farrell,lkelly@example.org,Sales Rep,2024-10-24,2024-11-15
+L0270,C044,Existing,Contacted,"Brady, Collins and Hall",Renee Smith,patriciahines@example.net,Email Campaign,2025-02-24,2025-01-04
+L0271,C040,Existing,Converted,Knight-Jenkins,Matthew Clay,mcollier@example.org,Email Campaign,2024-11-05,2024-11-19
+L0272,C028,New,Contacted,"Quinn, Collier and Wells",Christopher Elliott,zachary58@example.net,Email Campaign,2025-03-10,2025-01-09
+L0273,C027,Existing,Qualified,Gutierrez-Campbell,Tricia Snow,boydbrian@example.net,Trade Show,2025-02-05,2024-11-14
+L0274,C047,New,Contacted,Reynolds LLC,Krista Cunningham,westvictoria@example.net,Referral,2024-11-15,2025-03-14
+L0275,C030,Existing,New,Montgomery-Ross,April Evans,virginia11@example.com,Referral,2025-04-11,2025-01-17
+L0276,C037,New,Converted,"Johnson, Brown and Golden",Tiffany Decker,kathleenbrooks@example.net,Email Campaign,2025-02-06,2025-03-31
+L0277,C011,Existing,Qualified,Walker Ltd,Dr. Alexis Yang,atran@example.org,Referral,2025-03-16,2025-02-04
+L0278,C049,Existing,Converted,Walker-Edwards,Martha Odonnell,caitlynwilliams@example.com,Web,2024-12-09,2025-03-19
+L0279,C022,New,Contacted,"Morris, Lewis and Smith",Tina Stewart,millerrobert@example.org,Trade Show,2025-04-02,2025-04-12
+L0280,C036,New,New,"Vega, Porter and Frederick",Darin Conner,danielsteele@example.net,Sales Rep,2024-12-09,2025-03-28
+L0281,C023,Existing,Contacted,Johnston-Palmer,Gary Alexander,dixonjoanne@example.net,Web,2025-01-28,2025-04-14
+L0282,C021,New,Contacted,Garrison and Sons,Christine Walton,schmidtmisty@example.net,Email Campaign,2025-01-05,2024-11-28
+L0283,C023,New,Contacted,Gray LLC,Regina Cardenas,mckenzievictoria@example.net,Email Campaign,2024-12-03,2025-02-24
+L0284,C036,New,Converted,,Crystal Brown,pamela60@example.net,Sales Rep,2024-11-15,2025-01-02
+L0285,C021,New,Qualified,Meyer LLC,Aaron Ramirez,pittmanalexis@example.org,Referral,2025-03-22,2025-02-26
+L0286,C027,Existing,Qualified,Ball-Gutierrez,Kristin Medina,dawndavis@example.com,Sales Rep,2024-12-17,2024-12-27
+L0287,C039,New,Contacted,,Natasha Bailey,mellis@example.net,Email Campaign,2025-01-27,2025-03-30
+L0288,C050,Existing,Qualified,,Angel Fitzpatrick,josephjohnson@example.org,Trade Show,2025-03-23,2025-03-11
+L0289,C027,New,New,Gardner-Sutton,Shelley Stephens,qbrown@example.org,Web,2025-02-21,2024-12-23
+L0290,C034,New,New,Jackson-White,Corey Scott,wendywalker@example.net,Web,2025-01-11,2024-11-02
+L0291,C029,New,Converted,"Zamora, King and Perez",Matthew Lewis,evanscasey@example.net,Sales Rep,2024-12-24,2024-11-02
+L0292,C014,Existing,Qualified,Stone-Olson,Nicholas Rose,charlesmiller@example.com,Email Campaign,2024-12-29,2025-01-05
+L0293,C007,Existing,Qualified,Anderson-Young,Jennifer Maldonado,patriciarobinson@example.net,Sales Rep,2024-10-28,2024-10-28
+L0294,C015,Existing,Qualified,Bentley-Dyer,Alexis Campbell,munoztimothy@example.net,Web,2025-03-06,2024-12-01
+L0295,C043,New,Converted,Harris and Sons,Angela Hickman,jason41@example.com,Referral,2025-01-04,2024-10-17
+L0296,C037,Existing,Qualified,Perkins and Sons,Albert Gray,,Web,2024-12-14,2024-10-20
+L0297,C042,New,Converted,Moody-Wood,Katrina Baker,alexandria59@example.com,Sales Rep,2025-03-21,2024-11-28
+L0298,C025,Existing,Contacted,Summers and Sons,Angela Watson,xcrawford@example.org,Sales Rep,2025-01-29,2025-02-20
+L0299,C032,Existing,Converted,Barker Group,Billy Murray,zlynch@example.com,Trade Show,2025-01-17,2025-01-17
+L0300,C043,Existing,Contacted,Waller-Murphy,Ronald Thompson,jacksonkent@example.net,Email Campaign,2025-03-12,2025-03-31
+L0301,C048,New,New,Jimenez Group,Michael Lopez,greenclifford@example.com,Email Campaign,2025-01-07,2024-10-25
+L0302,C025,Existing,Contacted,Peterson-Garcia,Melissa Peters,markleonard@example.org,Referral,2025-02-16,2025-02-26
+L0303,C036,New,Converted,"Nelson, Rivers and Scott",Stephen Romero,brooksmark@example.com,Web,2024-11-30,2025-03-26
+L0304,C041,New,New,Pham Ltd,Terri Miller,fmartinez@example.com,Email Campaign,2024-12-29,2024-12-13
+L0305,C017,New,New,Larson Ltd,James Jackson,christophermullins@example.com,Web,2024-11-07,2025-02-06
+L0306,C045,New,Contacted,"Galvan, Jones and Ponce",Theresa Hopkins,lauren88@example.com,Email Campaign,2025-03-13,2024-11-17
+L0307,C047,New,Qualified,Arnold Group,Bailey Harding,wileykatelyn@example.com,Email Campaign,2025-04-06,2025-04-08
+L0308,C004,New,New,"Salas, Chavez and Dixon",Chris Waters,johnphillips@example.com,Email Campaign,2024-12-30,2024-11-17
+L0309,C034,New,New,Yoder-Price,Jesus Boyd,martinstein@example.net,Referral,2024-10-31,2025-02-08
+L0310,C030,New,Contacted,Wall-Montoya,Ryan Ryan,davidandrade@example.net,Web,2025-02-02,2025-01-27
+L0311,C014,New,Contacted,Sullivan Ltd,Ruth Long,taylorthomas@example.org,Sales Rep,2024-11-15,2024-12-29
+L0312,C016,Existing,New,Davis PLC,Tyler Wells,kathrynbest@example.com,Referral,2025-03-27,2025-02-08
+L0313,C018,Existing,Qualified,"Barnes, Reyes and Johnson",Tiffany Foster,tyler14@example.com,Email Campaign,2025-01-21,2025-03-18
+L0314,C022,New,Qualified,Hardin Inc,Steven Cox,heidijohnson@example.net,Email Campaign,2024-11-23,2025-01-27
+L0315,C030,Existing,Qualified,Wade PLC,Danny Moon,louis11@example.com,Sales Rep,2025-01-16,2024-11-24
+L0316,C043,New,Qualified,"Chavez, Lee and Randall",Belinda Carroll,ballmelissa@example.com,Email Campaign,2025-02-04,2024-10-28
+L0317,C034,New,Converted,"Dickerson, Montgomery and Wolf",Nicole Summers,lmoody@example.org,Referral,2025-03-23,2025-02-05
+L0318,C035,Existing,Converted,Sanders-Bryan,Savannah Jenkins,cathyrodriguez@example.com,Referral,2025-01-26,2024-11-26
+L0319,C022,New,New,"Rivers, Hawkins and Edwards",David Krause,alvaradodanielle@example.net,Web,2024-12-14,2024-10-21
+L0320,C024,New,Converted,Fritz PLC,Richard Krueger,walkerelizabeth@example.net,Referral,2024-12-28,2025-01-03
+L0321,C003,New,Contacted,"Hunter, Rice and Navarro",Frank Gallegos,ramoskari@example.net,Referral,2025-03-07,2025-04-11
+L0322,C022,New,Contacted,"Mckee, Grant and Sellers",Katrina Williams,hayneschase@example.org,Referral,2025-01-18,2025-01-24
+L0323,C021,Existing,New,Boyer Inc,Andrew Espinoza,dgonzales@example.com,Referral,2024-11-12,2024-12-15
+L0324,C017,Existing,Qualified,,Steven Henry,qcollins@example.org,Web,2025-03-16,2025-01-07
+L0325,C027,New,Contacted,"Espinoza, Hicks and Haynes",Zachary Stephens,kevin75@example.net,Email Campaign,2025-01-11,2025-01-29
+L0326,C002,Existing,New,"Herrera, Shields and Rodriguez",Tracey Thomas,linda45@example.com,Referral,2024-11-07,2025-04-15
+L0327,C011,Existing,New,"Green, Clark and Owens",Ellen Morris,braykathy@example.com,Trade Show,2024-12-05,2024-11-30
+L0328,C027,New,New,Hart-Brooks,Wesley Anderson,pcrawford@example.net,Trade Show,2025-01-04,2024-10-28
+L0329,C045,Existing,Qualified,Johnson-Jackson,Patrick Bond,martinezbrandon@example.com,Web,2024-10-17,2025-03-17
+L0330,C032,Existing,Converted,"Wallace, Young and Gonzalez",Jasmine Duran,donnatorres@example.com,Email Campaign,2025-03-31,2024-12-30
+L0331,C013,Existing,New,"Horton, Jones and Sullivan",Nicole Scott,,Email Campaign,2025-03-14,2025-03-24
+L0332,C011,Existing,Contacted,Potter and Sons,Ashley Berry,andersonmichael@example.org,Email Campaign,2024-12-22,2024-12-10
+L0333,C025,Existing,Contacted,"Conner, Martinez and Sloan",Jennifer Mcgrath MD,vlindsey@example.com,Sales Rep,2024-12-11,2025-04-02
+L0334,C012,Existing,Qualified,"Lara, Hernandez and Simpson",Cody Mccormick,thomasperry@example.net,Web,2024-11-15,2025-04-10
+L0335,C034,Existing,Qualified,"Lawson, Ellison and Rogers",Courtney Kim,perezamy@example.com,Trade Show,2024-11-14,2025-01-15
+L0336,C041,Existing,Contacted,,Alyssa Miller,michael46@example.com,Web,2024-11-04,2025-02-09
+L0337,C034,New,Converted,Lee-Gregory,Amanda Anthony,khughes@example.org,Web,2024-11-15,2024-10-25
+L0338,C048,New,Contacted,Miller and Sons,Michael Webb,mconner@example.net,Web,2024-12-04,2024-10-17
+L0339,C027,New,Qualified,"Daniel, Hughes and Mccarthy",Patrick Lee,heathermartinez@example.com,Referral,2025-03-28,2025-01-01
+L0340,C034,New,Qualified,Gray-Adams,Adam Villa,parksvictoria@example.net,Email Campaign,2025-04-01,2024-11-30
+L0341,C002,Existing,Contacted,Schultz-Richards,Brandon Carter,khicks@example.net,Trade Show,2025-01-04,2025-03-02
+L0342,C047,Existing,Converted,Hubbard-Mosley,Joshua Brooks,jasonchen@example.org,Trade Show,2025-03-17,2025-01-15
+L0343,C016,Existing,New,,Micheal Lewis,oray@example.net,Email Campaign,2025-02-11,2025-02-15
+L0344,C035,New,Contacted,Carpenter Ltd,Sandra Thomas,,Web,2025-02-18,2024-12-06
+L0345,C019,New,New,"Mcdonald, Simmons and Ryan",Mr. Randall Campbell,nboyer@example.com,Referral,2024-12-19,2025-02-16
+L0346,C013,Existing,New,James-Johnson,Mary Jennings,ramseydonna@example.org,Email Campaign,2025-01-09,2025-03-23
+L0347,C022,New,Converted,Warren-Ochoa,Jacob Simmons,bryanjenkins@example.net,Web,2025-03-01,2025-04-13
+L0348,C049,New,Qualified,"Sanders, Perry and Rosales",Jamie Gonzalez,frankkaren@example.net,Sales Rep,2025-03-15,2024-12-07
+L0349,C004,New,Contacted,"Gutierrez, Roberts and Johnston",Philip Monroe,teresa36@example.org,Web,2025-03-17,2025-03-19
+L0350,C033,New,Converted,Fernandez-Mills,Mr. Craig Liu,qburke@example.org,Trade Show,2025-02-07,2025-01-02
+L0351,C048,Existing,New,"Morris, Martin and Cook",,iwebb@example.org,Sales Rep,2025-03-30,2024-11-27
+L0352,C027,Existing,Contacted,Walker PLC,David Christian,emilycox@example.org,Referral,2025-01-19,2024-11-18
+L0353,C032,Existing,New,"Brown, Smith and Johnson",Sara Waters,holmesjonathan@example.net,Web,2025-01-16,2025-02-19
+L0354,C044,New,Contacted,"Stephens, Holmes and Andrews",Kristina Vang,vfox@example.com,Web,2024-11-22,2024-12-05
+L0355,C020,New,Contacted,Martinez PLC,Ian Gentry,annette79@example.net,Sales Rep,2025-03-04,2025-02-20
+L0356,C034,Existing,New,"Duncan, Burgess and Carter",,patricia49@example.org,Trade Show,2025-02-27,2024-10-19
+L0357,C016,Existing,Qualified,Morrison and Sons,John Guerrero,feliciagallagher@example.org,Trade Show,2025-03-10,2025-02-11
+L0358,C030,Existing,Contacted,Thomas-Young,Jennifer Schultz,phall@example.com,Email Campaign,2024-10-28,2025-01-08
+L0359,C024,Existing,Contacted,,Micheal Orr,mburke@example.net,Sales Rep,2024-12-21,2025-03-10
+L0360,C024,Existing,Converted,"Davidson, Goodwin and Davidson",Shawn Martin,mooreemily@example.com,Web,2025-04-05,2024-10-25
+L0361,C045,New,Contacted,Garcia-Anderson,Patricia Lozano,jwilson@example.net,Referral,2025-02-08,2024-11-25
+L0362,C049,Existing,New,"Foster, Weiss and Stevens",Tyler Adams,wrightjoshua@example.net,Referral,2025-03-30,2025-02-09
+L0363,C012,Existing,Contacted,"Preston, Jones and Medina",Anita Salinas,ksnyder@example.net,Email Campaign,2025-03-12,2024-11-24
+L0364,C002,Existing,Converted,"Spence, Keller and Le",James Gutierrez,heatherwilson@example.org,Sales Rep,2024-12-04,2024-10-19
+L0365,C038,New,Contacted,"Sims, Cunningham and Davis",Jennifer Wang,smithrobert@example.com,Email Campaign,2024-12-14,2024-12-02
+L0366,C035,New,Converted,Jones-Gonzalez,Kevin Munoz DVM,thomas71@example.net,Sales Rep,2024-11-01,2024-12-13
+L0367,C033,New,New,Schmidt PLC,James Francis,rogerrogers@example.org,Email Campaign,2025-01-03,2024-10-24
+L0368,C021,Existing,Converted,"Smith, Rowland and Brown",Erika Jackson,kelly93@example.org,Referral,2024-11-27,2025-02-05
+L0369,C027,Existing,Contacted,Ball-Freeman,Joshua Gutierrez,teresa36@example.org,Trade Show,2025-01-15,2024-10-25
+L0370,C022,New,Converted,Richards-Taylor,Michael Allen,,Sales Rep,2024-12-26,2025-01-11
+L0371,C033,Existing,Contacted,Young Inc,William Hall,fisherdavid@example.com,Email Campaign,2024-11-26,2024-11-28
+L0372,C025,New,Contacted,Sanchez LLC,Richard Rose,obaxter@example.org,Referral,2025-03-30,2025-04-07
+L0373,C047,Existing,Qualified,Mata-Thomas,David Hubbard,laura61@example.com,Email Campaign,2024-10-20,2024-12-03
+L0374,C013,Existing,Qualified,Kelly Ltd,Steven Reynolds,james74@example.org,Web,2025-04-16,2025-03-08
+L0375,C044,Existing,Contacted,Brewer-Fox,Joseph Stanton,kelleyanthony@example.com,Sales Rep,2024-11-28,2025-02-15
+L0376,C033,Existing,New,"Castillo, Collins and Pham",Sean Franklin PhD,byrdmichaela@example.org,Trade Show,2025-04-04,2024-11-14
+L0377,C008,New,Converted,Blake-Smith,Robert Garcia,clowe@example.org,Sales Rep,2025-02-03,2024-11-19
+L0378,C045,New,New,Vaughn-Meadows,David Moore,jessicahernandez@example.org,Sales Rep,2025-03-18,2024-12-27
+L0379,C044,Existing,Qualified,Christian-Andrews,Melissa Bennett,vmoore@example.com,Email Campaign,2025-02-19,2025-02-25
+L0380,C034,New,New,Cochran and Sons,Holly Santiago,tylerdiaz@example.net,Referral,2024-10-29,2025-02-19
+L0381,C009,Existing,New,Monroe-Miller,Joseph Nguyen,frazieralicia@example.net,Sales Rep,2025-03-03,2024-10-30
+L0382,C043,New,New,Stout-Martinez,Andrea Stafford MD,williamsdenise@example.org,Referral,2025-04-12,2024-12-26
+L0383,C025,Existing,Qualified,Glenn Group,Linda Torres,monicathomas@example.net,Trade Show,2024-10-17,2025-03-30
+L0384,C047,New,Converted,"Blevins, Andrade and Hoffman",Olivia Kelly,fscott@example.net,Web,2025-03-30,2024-11-02
+L0385,C010,New,Converted,Cervantes-Page,Michael Davis,tami40@example.net,Sales Rep,2024-11-05,2025-03-30
+L0386,C014,New,Qualified,Byrd Inc,Rhonda Brooks,david56@example.org,Referral,2025-02-13,2024-12-07
+L0387,C026,New,Contacted,"Sosa, Warren and Tucker",Sonya Brown,robert56@example.org,Referral,2024-10-20,2025-02-25
+L0388,C033,New,New,"Brown, Garcia and Wilson",Ryan Wilson,michaelterrell@example.com,Sales Rep,2024-11-10,2025-04-01
+L0389,C008,New,Contacted,Mercado Inc,Johnny Burns,brendan18@example.net,Sales Rep,2025-03-14,2024-10-22
+L0390,C003,New,Qualified,Davis and Sons,Elizabeth Rosario,elowe@example.com,Referral,2025-02-08,2024-12-01
+L0391,C031,Existing,Contacted,"Cox, Gardner and Collier",Michele Young,charlesbright@example.net,Web,2025-03-25,2025-02-06
+L0392,C028,Existing,Contacted,"Jordan, Wallace and Acosta",John Barnes,ykelley@example.org,Referral,2024-11-21,2025-03-09
+L0393,C041,New,Contacted,"Rodriguez, Bishop and Harris",Ashley Leonard,josephzimmerman@example.com,Trade Show,2025-02-28,2025-03-28
+L0394,C018,Existing,Converted,Jones PLC,Thomas Lucas,tolson@example.org,Sales Rep,2025-02-16,2024-11-21
+L0395,C040,Existing,Contacted,Davis LLC,Luis Wheeler,beth10@example.com,Trade Show,2025-01-15,2024-11-23
+L0396,C030,Existing,Qualified,James-Hamilton,Kiara Holden,vhouston@example.org,Trade Show,2024-11-30,2025-02-13
+L0397,C032,New,Contacted,"Evans, Murillo and Montgomery",Carolyn Lane,,Sales Rep,2025-01-03,2025-02-10
+L0398,C028,New,Qualified,Roberts-Williams,Diane Ramsey,simmonstimothy@example.com,Referral,2025-02-25,2025-01-20
+L0399,C029,Existing,New,Carter-Lane,,dennismurphy@example.com,Email Campaign,2025-03-31,2024-10-27
+L0400,C026,New,Contacted,Gomez-Jones,William Lee,charles66@example.org,Trade Show,2025-03-13,2025-02-01
+L0401,C038,New,Qualified,Adams-Herrera,Sarah Berg,nicole76@example.com,Sales Rep,2025-01-28,2025-03-24
+L0402,C018,Existing,New,Smith Inc,Jimmy Elliott,jmoore@example.net,Email Campaign,2024-12-20,2025-04-16
+L0403,C020,New,Qualified,Boyd Group,Shane Johnson,yatesnatalie@example.org,Trade Show,2025-03-08,2025-02-06
+L0404,C007,New,Qualified,Diaz-Evans,,cconner@example.net,Referral,2024-11-10,2025-02-09
+L0405,C043,New,New,Fernandez Inc,Elizabeth Kennedy,andersonjacqueline@example.com,Email Campaign,2025-03-04,2024-11-10
+L0406,C011,New,New,Herrera-Clark,Theresa Washington,lauren64@example.net,Sales Rep,2024-12-01,2025-02-02
+L0407,C039,New,New,Howard PLC,Crystal Dougherty,christopherbrennan@example.com,Trade Show,2025-03-08,2024-11-13
+L0408,C022,Existing,Contacted,"Owens, Morrison and Reilly",Sheena Lee,webbpaul@example.com,Referral,2025-02-04,2024-10-17
+L0409,C010,New,Contacted,Smith Inc,Samuel West,kimberlyowen@example.org,Trade Show,2024-11-01,2025-01-31
+L0410,C047,Existing,Contacted,"Morales, Bullock and Crawford",Makayla Young,,Email Campaign,2024-10-24,2025-02-15
+L0411,C022,Existing,Contacted,Chan Group,Pamela Dyer,nicoleanderson@example.net,Email Campaign,2025-01-23,2024-11-04
+L0412,C009,New,New,Arroyo-Diaz,Elizabeth Cole,george69@example.com,Referral,2024-11-25,2025-03-29
+L0413,C021,New,New,Arnold LLC,Timothy Morris,osimmons@example.org,Trade Show,2024-12-12,2025-03-03
+L0414,C012,Existing,Qualified,"Murray, Jones and Smith",Jonathan Gilbert,williamsamy@example.com,Web,2024-10-18,2024-10-25
+L0415,C001,Existing,New,"Carter, Kennedy and Perez",Justin Robles,travislopez@example.net,Referral,2024-11-10,2024-11-13
+L0416,C018,Existing,Contacted,Navarro Ltd,Kenneth Garcia,melissa88@example.com,Trade Show,2024-11-24,2025-01-16
+L0417,C017,New,Contacted,Henderson-Dominguez,Alison Frost,ashleymitchell@example.com,Trade Show,2025-03-15,2025-02-11
+L0418,C011,New,New,"Allen, Williams and Petty",,michael46@example.org,Trade Show,2025-03-29,2025-03-28
+L0419,C015,Existing,New,Scott-Stephens,Gerald Warren,jadkins@example.net,Trade Show,2025-01-10,2024-12-09
+L0420,C022,Existing,Converted,,Andrew Greene,rachelcaldwell@example.net,Sales Rep,2025-04-15,2024-12-14
+L0421,C010,New,New,,Frances Dalton,thomas11@example.org,Trade Show,2025-04-04,2025-01-13
+L0422,C047,New,Contacted,"Clark, Mcfarland and Johnson",,jenniferperry@example.net,Sales Rep,2025-03-27,2025-01-08
+L0423,C022,Existing,Qualified,Stokes-Barnett,Gail Wall,cherryscott@example.com,Web,2025-04-12,2025-02-14
+L0424,C039,Existing,Qualified,Hernandez LLC,Grace Malone,sophia10@example.net,Referral,2025-01-01,2025-03-11
+L0425,C008,Existing,Contacted,Lopez-Wood,Dr. Lauren Buckley DVM,zcox@example.org,Sales Rep,2024-11-27,2024-12-20
+L0426,C037,Existing,New,Thomas LLC,Nancy Rodriguez,john93@example.net,Trade Show,2025-01-24,2024-10-28
+L0427,C024,Existing,New,"Cohen, Diaz and Lopez",David Reynolds,areed@example.com,Trade Show,2024-10-28,2024-10-24
+L0428,C028,New,Qualified,Roth-Carter,Amanda Duncan,ahill@example.net,Trade Show,2025-02-01,2024-12-28
+L0429,C046,New,Converted,White-Diaz,Deborah Dunn,kenneth63@example.net,Sales Rep,2025-02-22,2025-01-25
+L0430,C031,Existing,Qualified,Anthony Ltd,Ashley Price,christine74@example.org,Web,2024-11-26,2025-01-20
+L0431,C009,New,New,Hansen-Nguyen,Carrie Diaz,jenniferlong@example.net,Referral,2025-03-18,2024-11-20
+L0432,C033,New,Converted,Boyd Inc,Kelly Garcia,heather73@example.org,Email Campaign,2025-01-01,2025-02-11
+L0433,C026,Existing,Converted,Franco Group,Stacey Martin,ndavis@example.net,Email Campaign,2024-12-28,2024-11-01
+L0434,C017,New,Converted,George-Martinez,Tara Yang,mooregregory@example.org,Trade Show,2024-10-29,2024-12-07
+L0435,C017,New,Qualified,Pena Ltd,Scott Lewis,michele55@example.com,Referral,2025-02-08,2025-02-24
+L0436,C025,New,Contacted,Rogers Inc,Robert Norman,ndudley@example.net,Trade Show,2024-12-29,2024-10-23
+L0437,C017,Existing,Contacted,Moody and Sons,Michael Yates,daniellemartinez@example.org,Sales Rep,2025-01-25,2024-12-08
+L0438,C001,New,Converted,Nolan Ltd,Joseph Johnson,jane87@example.com,Web,2024-11-02,2025-02-20
+L0439,C035,Existing,Converted,Murray-Wang,Jesse Woodward,eduardo26@example.net,Referral,2025-02-18,2025-01-09
+L0440,C002,Existing,Converted,Parker-Lynch,Elizabeth Moore,davidrobertson@example.org,Email Campaign,2025-01-24,2024-11-13
+L0441,C008,New,Converted,Johnson-Hansen,Ricardo Harrington,hughesgeorge@example.org,Sales Rep,2025-04-03,2025-03-10
+L0442,C013,New,Converted,Young-Glenn,Nicholas Gardner,alicialee@example.net,Referral,2024-11-09,2025-04-11
+L0443,C033,Existing,New,Braun-Villarreal,Connie Taylor,randymcdowell@example.com,Email Campaign,2024-12-09,2024-11-10
+L0444,C043,New,Contacted,Nguyen Group,Kelly Holland,angela79@example.com,Web,2025-02-03,2024-12-22
+L0445,C032,New,New,Gordon Ltd,Justin Moran,,Email Campaign,2024-10-26,2025-01-30
+L0446,C009,Existing,Converted,Powell LLC,Victor Davenport,lesharon@example.org,Referral,2024-11-08,2025-02-10
+L0447,C039,New,New,Stone-Roberts,Richard Alvarez,james57@example.org,Referral,2025-03-26,2024-11-03
+L0448,C012,Existing,Converted,"Jackson, Collins and Hanson",Marie Jacobson,kevinmoss@example.org,Referral,2025-04-13,2024-12-11
+L0449,C038,New,Qualified,"Greer, Johnson and Vega",Sylvia Hall,michael09@example.net,Email Campaign,2025-03-31,2024-12-22
+L0450,C031,Existing,Converted,Olson LLC,Danielle Rasmussen,jeffreyrodriguez@example.org,Email Campaign,2024-11-20,2024-11-30
+L0451,C006,New,Qualified,Gardner-Brown,Nicole Watson,lharris@example.net,Referral,2025-04-03,2025-03-22
+L0452,C039,New,Converted,Oconnell and Sons,Francisco Wright PhD,cassandragilbert@example.org,Web,2024-11-10,2024-11-20
+L0453,C010,New,Converted,Williams-Estes,Tyler Reilly,ronald07@example.net,Email Campaign,2025-01-03,2024-11-19
+L0454,C033,New,Contacted,"Davis, Sullivan and Davis",Sarah Barker,twhite@example.net,Email Campaign,2024-12-11,2024-11-15
+L0455,C019,New,Qualified,Perez LLC,Sheri Aguirre,jamiewagner@example.org,Web,2024-10-23,2025-03-07
+L0456,C016,Existing,Contacted,"Green, Lawrence and Wood",Tony Watts,christopher29@example.net,Sales Rep,2024-11-14,2025-01-17
+L0457,C027,Existing,New,"Molina, Allen and Williams",Paul Delacruz,woodwardheidi@example.com,Sales Rep,2024-12-02,2025-03-25
+L0458,C023,Existing,Contacted,Gilbert Inc,Erin Wilson,joseph54@example.org,Referral,2024-12-29,2025-04-11
+L0459,C011,Existing,Converted,Griffin and Sons,Ryan Ramirez,david15@example.org,Sales Rep,2025-01-31,2025-03-09
+L0460,C004,New,Qualified,Armstrong-Williams,,olewis@example.com,Sales Rep,2024-10-24,2025-03-16
+L0461,C012,Existing,Contacted,Meyer LLC,Michael Wolfe,richardmakayla@example.net,Referral,2024-11-20,2024-10-20
+L0462,C010,Existing,New,Houston-Howell,Brittany Castro,volsen@example.net,Referral,2025-04-14,2025-01-31
+L0463,C032,New,Converted,"Rhodes, Martinez and Brady",,thomas04@example.org,Email Campaign,2025-04-02,2025-04-05
+L0464,C019,Existing,Qualified,Hall and Sons,John Porter,,Sales Rep,2025-03-28,2024-11-14
+L0465,C014,New,Contacted,,Lisa Kim,allenthompson@example.org,Trade Show,2025-04-02,2025-02-11
+L0466,C028,Existing,New,"Jones, Coleman and Khan",Lori Horton,chandlerbrian@example.com,Email Campaign,2024-12-23,2025-02-14
+L0467,C009,New,Qualified,Mcdaniel-Warren,Mary Lee,,Trade Show,2024-12-29,2024-12-21
+L0468,C004,New,New,"Smith, Greer and Harper",Antonio Klein,sherimejia@example.com,Sales Rep,2024-11-04,2024-12-04
+L0469,C040,Existing,Qualified,Roberts-Wilson,Sharon Walker,steven87@example.org,Trade Show,2024-10-24,2025-04-12
+L0470,C004,Existing,Contacted,Smith Inc,Amanda Burns,navarrobrandon@example.com,Web,2024-11-28,2025-02-16
+L0471,C002,Existing,Qualified,Duncan-Allen,Christine Ferguson,nathan32@example.net,Trade Show,2025-03-04,2025-01-28
+L0472,C044,New,Converted,"Valencia, Wilson and Rodriguez",Theresa Wilson,williamsjennifer@example.org,Trade Show,2024-11-22,2024-11-13
+L0473,C007,Existing,Converted,"Bailey, Larsen and Atkins",Jeffery King,thompsoncody@example.com,Trade Show,2025-02-06,2024-11-29
+L0474,C002,Existing,Qualified,Ramirez Inc,Daniel Rodriguez,haroldlee@example.com,Web,2024-11-07,2025-03-29
+L0475,C040,Existing,New,Mendoza Inc,Shannon Moore,ehernandez@example.net,Sales Rep,2025-03-29,2024-10-27
+L0476,C009,New,Converted,"Hogan, Munoz and Montoya",Fred Tran,carriegoodman@example.com,Referral,2025-03-07,2025-02-11
+L0477,C037,New,Converted,Franklin LLC,Shawn Flores,cynthiawolf@example.net,Sales Rep,2025-02-18,2024-12-17
+L0478,C037,New,Converted,Rodriguez LLC,Jessica Roberts,steven95@example.net,Referral,2024-12-31,2024-10-31
+L0479,C004,New,Converted,Morrison Inc,Reginald Martin,kristopher96@example.net,Referral,2025-02-01,2024-12-10
+L0480,C029,Existing,Qualified,,Daniel Maldonado,dwaynedavis@example.net,Web,2024-12-30,2025-01-22
+L0481,C027,New,Converted,Clark-Perry,Steven White,jmcconnell@example.net,Sales Rep,2024-12-23,2024-10-29
+L0482,C002,New,New,"Jordan, White and Brown",Catherine Horton,juan70@example.org,Trade Show,2025-03-23,2024-12-19
+L0483,C025,Existing,Contacted,"Garcia, Sandoval and Good",Ronald Cannon,mary84@example.net,Sales Rep,2024-12-04,2024-12-15
+L0484,C007,Existing,New,Frazier Ltd,Dominic Carrillo,chaseantonio@example.com,Web,2024-10-28,2024-12-29
+L0485,C035,Existing,Converted,Morales-Gray,Joseph Beck,yfarley@example.net,Referral,2024-11-16,2025-04-03
+L0486,C022,Existing,Qualified,Coleman-Woodward,Melissa Hatfield,ilamb@example.org,Sales Rep,2024-10-23,2025-03-01
+L0487,C040,New,Qualified,Williams-Savage,James Li,csims@example.org,Sales Rep,2025-03-26,2025-02-21
+L0488,C023,New,Qualified,"Hudson, Friedman and Garcia",Brian Campbell,popeanthony@example.net,Web,2025-03-02,2024-12-01
+L0489,C029,Existing,New,"Mendez, Edwards and Hill",,oparker@example.org,Trade Show,2024-10-19,2024-11-18
+L0490,C034,New,New,Dunlap Inc,Patricia Hebert,christopher83@example.com,Sales Rep,2025-04-09,2024-11-01
+L0491,C021,Existing,Qualified,Clay PLC,,figueroachristopher@example.net,Email Campaign,2025-03-30,2025-02-14
+L0492,C041,New,Qualified,Thompson-Schmidt,John Berg,michael21@example.org,Sales Rep,2024-11-02,2025-03-18
+L0493,C021,Existing,Qualified,Moreno-Bailey,Dwayne Ramirez,millerbrian@example.net,Email Campaign,2025-01-15,2024-12-02
+L0494,C023,Existing,New,Bailey PLC,Becky Ramos,camachorebecca@example.com,Referral,2024-12-06,2025-03-13
+L0495,C020,New,Converted,Thompson-Vaughn,Nathan Goodman,juliamendoza@example.com,Referral,2025-01-06,2025-01-23
+L0496,C046,New,Contacted,Parsons LLC,Amy Burke,cheryl09@example.org,Sales Rep,2025-01-14,2025-01-20
+L0497,C025,Existing,Contacted,Martinez-Singh,Amanda James,wesley98@example.com,Sales Rep,2025-02-03,2024-12-15
+L0498,C016,Existing,Converted,,Dr. Lisa Richards MD,andreacarson@example.org,Trade Show,2024-12-08,2025-04-07
+L0499,C033,New,Qualified,Best-Cook,Stephen Brown,eflowers@example.com,Sales Rep,2025-02-23,2025-02-04
+L0500,C003,New,Qualified,"Navarro, Robinson and Watkins",John Payne,mary37@example.com,Sales Rep,2024-11-14,2025-02-10
+L0270,C044,Existing,Contacted,"Brady, Collins and Hall",Renee Smith,patriciahines@example.net,Email Campaign,2025-02-24,2025-01-04
+L0370,C022,New,Converted,Richards-Taylor,Michael Allen,,Sales Rep,2024-12-26,2025-01-11
+L0372,C025,New,Contacted,Sanchez LLC,Richard Rose,obaxter@example.org,Referral,2025-03-30,2025-04-07
+L0295,C043,New,Converted,Harris and Sons,Angela Hickman,jason41@example.com,Referral,2025-01-04,2024-10-17
+L0464,C019,Existing,Qualified,Hall and Sons,John Porter,,Sales Rep,2025-03-28,2024-11-14
+L0099,C017,New,New,Evans Group,Frank Floyd,ashleymaxwell@example.org,Email Campaign,2024-12-14,2025-03-23
+L0412,C009,New,New,Arroyo-Diaz,Elizabeth Cole,george69@example.com,Referral,2024-11-25,2025-03-29
+L0034,C015,Existing,Contacted,"Davis, Wilson and Kim",Margaret Wiggins,curtisbrooks@example.org,Referral,2024-11-12,2024-10-28
+L0403,C020,New,Qualified,Boyd Group,Shane Johnson,yatesnatalie@example.org,Trade Show,2025-03-08,2025-02-06
+L0078,C022,Existing,Converted,"Sloan, Ashley and Zuniga",Denise Potts,katelynwatson@example.com,Email Campaign,2025-01-08,2024-11-18
+L0070,C047,New,Contacted,Waller PLC,Crystal Jackson,farrellmarie@example.org,Trade Show,2025-01-23,2025-04-16
+L0260,C027,Existing,New,Sanchez Group,Samantha Coleman,calderonsusan@example.com,Trade Show,2024-12-07,2025-01-28
+L0472,C044,New,Converted,"Valencia, Wilson and Rodriguez",Theresa Wilson,williamsjennifer@example.org,Trade Show,2024-11-22,2024-11-13
+L0220,C008,New,Converted,Wade-Salas,Luke Terry,jamesjoel@example.net,Trade Show,2025-01-15,2025-02-14
+L0139,C014,New,Converted,"Murphy, Brown and Drake",Tyler Becker,michael74@example.net,Email Campaign,2025-02-24,2025-03-17
+L0034,C015,Existing,Contacted,"Davis, Wilson and Kim",Margaret Wiggins,curtisbrooks@example.org,Referral,2024-11-12,2024-10-28
+L0396,C030,Existing,Qualified,James-Hamilton,Kiara Holden,vhouston@example.org,Trade Show,2024-11-30,2025-02-13
+L0463,C032,New,Converted,"Rhodes, Martinez and Brady",,thomas04@example.org,Email Campaign,2025-04-02,2025-04-05
+L0149,C009,Existing,Contacted,"Gonzales, Anderson and Silva",Matthew Andrade,robert44@example.net,Trade Show,2025-04-05,2025-02-16
+L0214,C032,Existing,New,Ward-Garcia,Nathaniel West,henrystevenson@example.org,Trade Show,2025-04-07,2024-11-26
+L0385,C010,New,Converted,Cervantes-Page,Michael Davis,tami40@example.net,Sales Rep,2024-11-05,2025-03-30
+L0036,C011,Existing,New,Buchanan-Cummings,Troy Reyes,taylormiller@example.net,Referral,2025-01-29,2024-12-28
+L0307,C047,New,Qualified,Arnold Group,Bailey Harding,wileykatelyn@example.com,Email Campaign,2025-04-06,2025-04-08
+L0034,C015,Existing,Contacted,"Davis, Wilson and Kim",Margaret Wiggins,curtisbrooks@example.org,Referral,2024-11-12,2024-10-28
+L0388,C033,New,New,"Brown, Garcia and Wilson",Ryan Wilson,michaelterrell@example.com,Sales Rep,2024-11-10,2025-04-01

@@ -1,0 +1,917 @@
+EmployeeID,ClientID,Name,Position,HireDate,EntryMode,ErrorsFound
+C001-E001,C001,Randy Rivera,Manager,2025-03-22,Manual,0
+C001-E002,C001,Sarah Campbell,HR Assistant,2025-04-02,Manual,0
+C001-E003,C001,Gary Thomas DVM,Manager,2024-12-25,Manual,0
+C001-E004,C001,Hannah Spencer,Technician,2025-01-03,EDI,0
+C001-E005,C001,Steven Smith,Clerk,2025-01-17,EDI,0
+C001-E006,C001,Jill Perry,Clerk,2025-04-10,EDI,0
+C001-E007,C001,Benjamin Levine,Clerk,2025-01-23,EDI,0
+C001-E008,C001,Michael Jimenez,Manager,2024-11-04,EDI,0
+C002-E001,C002,Latoya Robertson,HR Assistant,2024-10-31,EDI,0
+C002-E002,C002,Matthew Barton MD,Technician,2025-04-13,EDI,0
+C002-E003,C002,Angela King,HR Assistant,2025-03-15,EDI,0
+C002-E004,C002,Jeremy Costa,Clerk,2024-10-27,EDI,0
+C002-E005,C002,Jill Paul,Manager,2025-03-07,EDI,0
+C003-E001,C003,Julie Curtis,Technician,2024-11-11,EDI,0
+C003-E002,C003,John Fleming,Manager,2024-11-20,EDI,0
+C003-E003,C003,Kristina Walter,Technician,2025-03-22,EDI,0
+C003-E004,C003,Matthew Howard,Technician,2025-01-11,EDI,0
+C003-E005,C003,Janice Townsend,HR Assistant,2025-02-13,EDI,0
+C003-E006,C003,Sean Johnson,Manager,2024-12-26,EDI,0
+C003-E007,C003,Julia Strickland,Manager,2024-11-29,EDI,0
+C003-E008,C003,Erik Foster,Manager,2025-03-23,EDI,0
+C003-E009,C003,James Wood,HR Assistant,2024-11-07,Manual,0
+C003-E010,C003,Tina Dodson,Technician,2024-10-16,EDI,0
+C003-E011,C003,John Houston,HR Assistant,2025-03-21,Manual,0
+C003-E012,C003,Deborah Harris,Manager,2025-03-23,Manual,0
+C003-E013,C003,Tammy Barnes,Technician,2025-02-26,Manual,0
+C003-E014,C003,Vanessa Sanchez,Clerk,2025-04-16,Manual,0
+C003-E015,C003,Marvin Hogan,HR Assistant,2025-03-13,EDI,0
+C003-E016,C003,Samantha Clark,Manager,2024-11-27,EDI,0
+C003-E017,C003,Timothy Ward,Technician,2025-04-07,Manual,0
+C003-E018,C003,Christina Pittman,HR Assistant,2024-10-16,EDI,0
+C003-E019,C003,Rachel Walker,Technician,2024-12-15,EDI,0
+C003-E020,C003,Charles Wells,Technician,2024-11-28,Manual,0
+C003-E021,C003,Austin Robbins,Clerk,2025-03-01,EDI,0
+C003-E022,C003,Hailey Olson,Technician,2025-03-21,EDI,0
+C003-E023,C003,David Beard,Technician,2025-02-28,EDI,0
+C004-E001,C004,Alyssa Williams,HR Assistant,2024-11-25,Manual,0
+C004-E002,C004,Dr. Jessica Francis,Technician,2024-12-05,EDI,0
+C004-E003,C004,Jonathan Luna,HR Assistant,2024-12-15,EDI,1
+C004-E004,C004,Charles Gutierrez,Technician,2024-11-24,EDI,0
+C004-E005,C004,Jonathan Hooper,Clerk,2024-12-10,Manual,0
+C004-E006,C004,Karina Smith,Clerk,2025-02-15,EDI,0
+C004-E007,C004,Eileen Norris,Clerk,2024-12-10,EDI,0
+C004-E008,C004,Dana Johnson,Manager,2025-02-07,EDI,0
+C004-E009,C004,Amanda Martin,Technician,2025-02-15,Manual,0
+C004-E010,C004,Jennifer Edwards,Manager,2024-10-16,Manual,0
+C004-E011,C004,Travis Tran,Clerk,2024-11-11,Manual,0
+C004-E012,C004,Monica Gay,Technician,2025-01-07,EDI,0
+C004-E013,C004,Angela Martin,Manager,2025-03-18,EDI,0
+C004-E014,C004,Aaron Martin,HR Assistant,2024-11-25,EDI,0
+C005-E001,C005,Jennifer Armstrong,Technician,2025-04-14,EDI,0
+C005-E002,C005,Adam Hernandez,Manager,2024-11-18,Manual,0
+C005-E003,C005,Dana Dennis,HR Assistant,2025-03-23,Manual,0
+C005-E004,C005,Ronald Young MD,Manager,2025-04-07,EDI,0
+C005-E005,C005,Amber Jackson,Manager,2025-03-18,Manual,0
+C005-E006,C005,Pamela Lopez,Technician,2025-02-10,EDI,0
+C005-E007,C005,Mrs. Stephanie Ruiz DDS,HR Assistant,2024-12-04,EDI,0
+C006-E001,C006,Lisa Martinez,HR Assistant,2024-10-24,Manual,0
+C006-E002,C006,Robert Torres,Manager,2025-03-11,EDI,1
+C006-E003,C006,Joseph Thomas,Clerk,2025-04-10,EDI,0
+C006-E004,C006,Amy Finley,Technician,2025-03-27,Manual,0
+C006-E005,C006,Christina Alvarez,Clerk,2025-01-26,EDI,0
+C006-E006,C006,Jeffrey Murray,Technician,2025-03-31,Manual,0
+C006-E007,C006,Virginia Clark,Clerk,2025-04-05,EDI,0
+C006-E008,C006,Kristin Mcdonald,Manager,2024-11-30,Manual,0
+C006-E009,C006,Elizabeth Jones,Clerk,2025-03-05,EDI,0
+C006-E010,C006,Brandon Meyer,Manager,2025-03-23,EDI,0
+C006-E011,C006,Elizabeth Murphy,HR Assistant,2025-02-14,EDI,0
+C006-E012,C006,Steven Lopez,Manager,2025-03-03,EDI,0
+C006-E013,C006,Samantha Castro,HR Assistant,2025-03-31,EDI,1
+C006-E014,C006,Tracey Stuart,Technician,2025-02-01,EDI,0
+C006-E015,C006,Victoria Hayes,Clerk,2024-11-09,EDI,0
+C006-E016,C006,Miranda Moore,HR Assistant,2025-01-20,Manual,0
+C006-E017,C006,Jose Hess,Technician,2024-11-08,EDI,0
+C006-E018,C006,Frederick Cisneros,Clerk,2024-12-28,EDI,0
+C006-E019,C006,Angie Robinson,Manager,2025-03-28,Manual,0
+C006-E020,C006,Mr. Roger Fleming,Technician,2025-03-10,Manual,0
+C006-E021,C006,Michelle Mckinney,Clerk,2025-01-16,EDI,0
+C006-E022,C006,David Porter,Clerk,2025-03-03,EDI,0
+C006-E023,C006,Jennifer Thornton,HR Assistant,2024-11-20,EDI,0
+C007-E001,C007,Sarah Dixon,Technician,2025-02-22,EDI,0
+C007-E002,C007,Terry Burke,Technician,2025-02-04,EDI,0
+C007-E003,C007,Christopher Maxwell,Technician,2025-02-03,EDI,0
+C007-E004,C007,Joshua Wilson,Technician,2024-12-01,Manual,0
+C007-E005,C007,Angela Owen,Technician,2025-01-02,EDI,1
+C007-E006,C007,Kayla Lawson,Technician,2025-02-23,EDI,0
+C007-E007,C007,Lindsey Perez,Clerk,2024-11-14,Manual,0
+C007-E008,C007,Jordan Perez,Clerk,2024-12-25,EDI,0
+C007-E009,C007,Rhonda Evans,Clerk,2024-12-20,Manual,0
+C007-E010,C007,Christina Rodriguez,HR Assistant,2025-04-13,EDI,0
+C007-E011,C007,Alejandro Johnson,Clerk,2025-01-02,EDI,0
+C007-E012,C007,Keith Walker,HR Assistant,2025-03-08,EDI,0
+C007-E013,C007,Randy Fowler DDS,Technician,2024-12-29,EDI,0
+C007-E014,C007,Robert Lawrence,Technician,2024-12-04,Manual,0
+C007-E015,C007,William Lynch,Manager,2025-01-09,EDI,0
+C007-E016,C007,Mario Jensen,HR Assistant,2025-02-13,Manual,0
+C007-E017,C007,Brian Lambert,Technician,2024-12-21,EDI,0
+C007-E018,C007,Julie Perez,Manager,2024-10-27,EDI,0
+C007-E019,C007,Christy Fisher,HR Assistant,2025-03-08,EDI,0
+C007-E020,C007,Tammy Chung,Manager,2024-11-07,EDI,0
+C007-E021,C007,Amanda Chen,HR Assistant,2024-11-28,EDI,0
+C007-E022,C007,Rebecca Rodriguez,Manager,2024-11-04,Manual,0
+C007-E023,C007,Barry Herring,HR Assistant,2024-12-29,EDI,1
+C007-E024,C007,Cynthia Walker,Manager,2025-03-16,EDI,0
+C007-E025,C007,Steven Gutierrez,HR Assistant,2025-03-22,Manual,0
+C007-E026,C007,Tammy Norris,Technician,2024-12-13,EDI,0
+C007-E027,C007,Julie Collins,Technician,2025-01-28,EDI,0
+C008-E001,C008,Jill Harvey,Clerk,2024-10-24,EDI,0
+C008-E002,C008,Nicholas Smith,Clerk,2025-02-22,EDI,0
+C008-E003,C008,Joshua Castillo,Clerk,2024-11-17,Manual,0
+C008-E004,C008,Matthew Mayer,Technician,2024-11-21,Manual,0
+C008-E005,C008,Christopher Conley,HR Assistant,2024-12-10,EDI,0
+C008-E006,C008,Crystal Bailey,Clerk,2025-02-16,Manual,0
+C008-E007,C008,Ryan Hall,Manager,2025-04-04,EDI,0
+C008-E008,C008,Julie Coleman,Manager,2025-03-18,EDI,0
+C008-E009,C008,Kevin Johnson,Technician,2024-10-23,EDI,0
+C008-E010,C008,Joseph Buck,Technician,2024-11-24,Manual,0
+C008-E011,C008,Jimmy Harmon,HR Assistant,2024-11-17,EDI,0
+C008-E012,C008,Ashley Berg,Technician,2025-03-15,EDI,1
+C008-E013,C008,Michael Rhodes,Clerk,2024-10-24,EDI,0
+C008-E014,C008,Jason Sanders,Manager,2025-03-21,EDI,0
+C008-E015,C008,Kevin Kelly,Technician,2024-12-20,EDI,0
+C008-E016,C008,Valerie Smith,HR Assistant,2025-03-11,EDI,0
+C008-E017,C008,Barry Romero,HR Assistant,2024-10-25,EDI,0
+C008-E018,C008,Kylie Sanders,Manager,2024-12-21,EDI,0
+C008-E019,C008,Lisa Gomez,Technician,2024-11-24,EDI,0
+C008-E020,C008,Dr. Brittany Vargas DDS,Clerk,2024-12-02,EDI,0
+C008-E021,C008,Nicole Walter,HR Assistant,2024-11-02,EDI,0
+C008-E022,C008,Wendy Gibbs,Manager,2025-01-25,Manual,0
+C008-E023,C008,Dr. Nicole Hodge,HR Assistant,2025-02-16,Manual,0
+C008-E024,C008,Lisa Perez,Manager,2024-10-17,Manual,0
+C008-E025,C008,John Parker,HR Assistant,2024-12-13,EDI,0
+C008-E026,C008,Michelle Olsen,Technician,2025-01-08,EDI,0
+C008-E027,C008,Monique Bauer,HR Assistant,2025-03-11,EDI,0
+C009-E001,C009,Melissa Brown,Technician,2024-12-07,Manual,0
+C009-E002,C009,John May,Technician,2024-10-31,EDI,0
+C009-E003,C009,Keith Middleton,Manager,2025-02-01,EDI,0
+C009-E004,C009,Annette Frost,HR Assistant,2024-10-28,EDI,0
+C009-E005,C009,Shane Watkins,Technician,2024-11-20,Manual,1
+C009-E006,C009,Maria Morales,Technician,2024-12-09,EDI,0
+C009-E007,C009,Gina Mejia,HR Assistant,2025-03-08,EDI,0
+C009-E008,C009,Gina King,Manager,2025-02-19,EDI,0
+C009-E009,C009,Kurt Gallagher,Technician,2025-04-12,Manual,0
+C009-E010,C009,Danny Holden,Manager,2025-01-19,EDI,0
+C009-E011,C009,Mrs. Hayley Shields DDS,Technician,2025-02-16,EDI,0
+C009-E012,C009,David Decker,Manager,2025-02-11,EDI,0
+C009-E013,C009,Sherry Brown,HR Assistant,2025-03-03,EDI,1
+C009-E014,C009,Robert Cummings,Manager,2025-02-08,EDI,0
+C009-E015,C009,Joshua Becker,Manager,2025-01-14,EDI,1
+C009-E016,C009,Ana Rodriguez,Clerk,2024-11-13,Manual,1
+C009-E017,C009,Sean Hernandez,Manager,2025-02-20,Manual,0
+C009-E018,C009,Bobby Nielsen,HR Assistant,2025-03-03,EDI,0
+C009-E019,C009,Jeffery Bryant,Manager,2025-02-22,EDI,0
+C010-E001,C010,Olivia Parsons,HR Assistant,2025-04-07,EDI,0
+C010-E002,C010,Timothy Rasmussen,Manager,2025-02-17,Manual,0
+C010-E003,C010,Gregory Reese,HR Assistant,2025-01-19,EDI,0
+C010-E004,C010,Derrick Keller,HR Assistant,2024-12-26,Manual,0
+C010-E005,C010,James Johnson,Technician,2025-04-06,Manual,0
+C010-E006,C010,Amy Parrish,Technician,2025-03-27,EDI,0
+C010-E007,C010,David Perez,Clerk,2025-01-31,EDI,0
+C010-E008,C010,Ryan Robinson,Technician,2025-03-11,Manual,0
+C010-E009,C010,Melanie Gonzalez DDS,Technician,2025-02-02,EDI,0
+C010-E010,C010,Victoria Kelly,Clerk,2025-02-12,Manual,1
+C010-E011,C010,Rebekah Salazar,Manager,2025-03-27,EDI,0
+C010-E012,C010,Kathleen Bartlett,Technician,2025-02-21,EDI,0
+C010-E013,C010,William Blankenship,Technician,2025-04-08,Manual,0
+C010-E014,C010,Megan Parker,Manager,2024-12-04,EDI,0
+C010-E015,C010,Travis Hughes,HR Assistant,2025-03-31,Manual,0
+C010-E016,C010,Julie Powell,Clerk,2025-01-02,EDI,0
+C010-E017,C010,Daniel Bailey,Clerk,2024-12-09,Manual,0
+C010-E018,C010,Kimberly Hood,Manager,2025-04-14,EDI,0
+C010-E019,C010,Ashley Johnson,Manager,2025-02-09,EDI,0
+C010-E020,C010,John Chang,Technician,2024-11-02,EDI,0
+C010-E021,C010,Joel Jones,Manager,2025-01-29,EDI,1
+C010-E022,C010,Eric Mendez,Manager,2024-10-29,EDI,0
+C010-E023,C010,Gregory Anderson,Technician,2025-03-04,EDI,0
+C011-E001,C011,Elizabeth Sanchez,Manager,2025-02-25,EDI,0
+C011-E002,C011,Gregory Brennan,HR Assistant,2025-02-19,EDI,0
+C011-E003,C011,Timothy Joyce,Clerk,2025-01-24,EDI,0
+C011-E004,C011,Mr. Shawn Smith,Clerk,2025-02-21,EDI,0
+C011-E005,C011,Peter Moore,Manager,2024-12-28,EDI,0
+C011-E006,C011,Eric Moran,Manager,2024-12-03,Manual,0
+C011-E007,C011,Sandra Gregory,Manager,2025-04-04,EDI,0
+C011-E008,C011,Bethany Richards,HR Assistant,2024-11-07,EDI,0
+C011-E009,C011,Terry Mason,Clerk,2025-01-20,EDI,1
+C011-E010,C011,Kimberly Sutton,HR Assistant,2025-01-21,EDI,0
+C011-E011,C011,Heidi Meyer,Manager,2025-02-09,Manual,0
+C011-E012,C011,Kristy Christensen,HR Assistant,2024-11-30,EDI,0
+C011-E013,C011,Casey Roberson,Clerk,2024-12-28,Manual,0
+C011-E014,C011,Benjamin Obrien,Technician,2024-11-15,EDI,0
+C011-E015,C011,Curtis Smith,HR Assistant,2025-03-16,Manual,0
+C011-E016,C011,Manuel Hodge,HR Assistant,2025-01-17,Manual,0
+C011-E017,C011,Sharon Johnson,Technician,2025-02-10,Manual,0
+C011-E018,C011,Emily Carter,Clerk,2025-03-30,EDI,0
+C011-E019,C011,Matthew Brown,HR Assistant,2025-02-08,Manual,1
+C011-E020,C011,Timothy Rodriguez,Technician,2024-12-18,EDI,0
+C011-E021,C011,Natalie Sanchez,Clerk,2025-01-10,EDI,0
+C012-E001,C012,Lee Edwards,Clerk,2024-10-19,EDI,0
+C012-E002,C012,Marissa Johnson,HR Assistant,2024-12-27,EDI,0
+C012-E003,C012,Jacqueline Elliott,Clerk,2024-11-28,EDI,0
+C012-E004,C012,Christopher Fuentes,Manager,2025-03-07,Manual,0
+C012-E005,C012,Joel Anderson,Manager,2024-11-16,EDI,0
+C012-E006,C012,Kevin Williams,Technician,2025-02-03,EDI,0
+C012-E007,C012,Ashley Baker,Technician,2025-03-02,Manual,0
+C012-E008,C012,Sharon Scott,Manager,2024-11-08,Manual,0
+C013-E001,C013,Elizabeth Medina,Clerk,2025-03-17,Manual,0
+C013-E002,C013,Danielle Sanders,Technician,2025-03-16,EDI,0
+C013-E003,C013,Chad Hogan,Manager,2025-01-04,Manual,0
+C013-E004,C013,Joshua Bradley,Clerk,2025-02-20,EDI,0
+C013-E005,C013,David Robinson,Technician,2024-11-20,Manual,0
+C013-E006,C013,Pamela Morrow,Manager,2025-04-01,EDI,0
+C013-E007,C013,Joseph Lopez,Manager,2025-01-21,EDI,0
+C013-E008,C013,Carrie Stevens,Manager,2024-12-11,Manual,0
+C013-E009,C013,Andrew Bradford,Technician,2025-03-06,EDI,0
+C013-E010,C013,Joe Lee,Clerk,2025-03-19,EDI,0
+C013-E011,C013,Sarah Rogers,Manager,2024-12-17,EDI,0
+C013-E012,C013,Sarah Hardy,Technician,2025-01-13,Manual,0
+C013-E013,C013,Nathaniel Lawson,Manager,2025-01-11,EDI,0
+C013-E014,C013,Christopher Lee,HR Assistant,2025-03-05,Manual,0
+C013-E015,C013,Samuel Mccann,HR Assistant,2025-01-27,EDI,0
+C013-E016,C013,Justin Benson,Manager,2025-02-25,EDI,0
+C013-E017,C013,Danielle Rivera,Technician,2024-11-29,EDI,0
+C013-E018,C013,Katherine Macias,Technician,2025-01-24,EDI,0
+C013-E019,C013,Matthew Cross,HR Assistant,2024-10-16,EDI,0
+C013-E020,C013,Peter Richard PhD,Clerk,2024-12-09,Manual,0
+C013-E021,C013,Rodney Stein,Clerk,2025-03-19,EDI,0
+C013-E022,C013,William Sims,Clerk,2024-11-20,Manual,0
+C013-E023,C013,Kristina Fisher,HR Assistant,2025-03-16,EDI,0
+C013-E024,C013,Dwayne Mitchell,Clerk,2024-12-22,Manual,0
+C014-E001,C014,John Miller,Manager,2025-01-01,Manual,0
+C014-E002,C014,Amy Frey,HR Assistant,2024-11-01,Manual,0
+C014-E003,C014,Thomas Burgess,Technician,2025-03-31,EDI,1
+C014-E004,C014,Ashley Brown,Clerk,2025-02-19,EDI,0
+C014-E005,C014,Nicole Li,HR Assistant,2024-12-24,EDI,0
+C014-E006,C014,Mr. Roy Edwards,Technician,2025-01-18,Manual,0
+C014-E007,C014,Jason Jones,HR Assistant,2025-03-09,EDI,0
+C014-E008,C014,Terri Allen,HR Assistant,2025-01-29,EDI,0
+C014-E009,C014,Curtis Mitchell,Manager,2024-11-22,EDI,0
+C014-E010,C014,Leah Brennan,Clerk,2025-03-19,Manual,0
+C014-E011,C014,Breanna Kidd,Technician,2025-03-22,Manual,0
+C014-E012,C014,Joseph Rodriguez,Clerk,2024-12-15,EDI,0
+C014-E013,C014,Scott Jordan,HR Assistant,2024-10-19,Manual,0
+C015-E001,C015,Mrs. Bonnie Hartman,Technician,2025-02-17,EDI,0
+C015-E002,C015,Jesus Robinson,HR Assistant,2024-11-29,EDI,0
+C015-E003,C015,Casey Hanson,Clerk,2024-10-17,Manual,0
+C015-E004,C015,Christine Thompson,Clerk,2024-11-22,Manual,0
+C015-E005,C015,Alex Moore,Manager,2025-02-16,Manual,0
+C015-E006,C015,Melissa Evans,Manager,2024-11-28,EDI,0
+C015-E007,C015,Amy King,Clerk,2025-03-02,EDI,0
+C015-E008,C015,Carol Spence,Clerk,2025-03-12,Manual,1
+C015-E009,C015,Kimberly Stone,Clerk,2024-11-09,EDI,0
+C015-E010,C015,Brett Cooper,Manager,2025-03-29,Manual,0
+C015-E011,C015,James Short,Technician,2024-10-17,EDI,0
+C015-E012,C015,Kristin Cain,Clerk,2024-11-13,EDI,0
+C015-E013,C015,Danielle Webb,HR Assistant,2025-01-24,Manual,0
+C015-E014,C015,William Morgan,Technician,2024-11-30,Manual,0
+C015-E015,C015,Julia Davis,Clerk,2024-12-22,EDI,0
+C015-E016,C015,Richard Garcia,Manager,2025-02-07,EDI,0
+C015-E017,C015,Rachael Downs,Technician,2025-03-08,EDI,0
+C015-E018,C015,Jacob Hill,Manager,2025-04-06,EDI,0
+C015-E019,C015,Keith Foster,Manager,2024-11-12,Manual,0
+C015-E020,C015,Christopher Simon,Technician,2025-04-02,Manual,0
+C015-E021,C015,Alexis Duncan,Manager,2025-03-24,Manual,0
+C015-E022,C015,Thomas Davis,Manager,2024-12-13,EDI,0
+C015-E023,C015,Sean Proctor,HR Assistant,2024-12-29,EDI,0
+C015-E024,C015,Mariah Richardson,Technician,2025-03-01,EDI,0
+C015-E025,C015,Tina Pena,Manager,2025-01-28,EDI,0
+C015-E026,C015,Andrew Chung,Clerk,2024-11-30,Manual,0
+C015-E027,C015,Joshua Chavez,HR Assistant,2024-11-14,Manual,0
+C016-E001,C016,Gina Nunez,HR Assistant,2024-11-02,Manual,0
+C016-E002,C016,Shannon Roach,Clerk,2024-11-12,Manual,0
+C016-E003,C016,Brenda Black,Technician,2025-02-06,EDI,0
+C016-E004,C016,Sarah Rivera,Clerk,2024-11-29,EDI,1
+C016-E005,C016,Amanda Garcia,Technician,2024-10-27,EDI,0
+C016-E006,C016,Robert Sanchez,Clerk,2025-02-16,Manual,0
+C016-E007,C016,Kathryn Fletcher,Clerk,2024-12-21,EDI,0
+C016-E008,C016,Teresa Fields,Technician,2025-03-21,EDI,0
+C016-E009,C016,Sarah Li,Clerk,2024-12-24,Manual,0
+C016-E010,C016,Todd Holland,Technician,2025-03-08,Manual,0
+C016-E011,C016,Christopher Burns,Manager,2025-01-27,EDI,0
+C016-E012,C016,Susan Smith,HR Assistant,2025-02-14,Manual,0
+C016-E013,C016,Patricia Padilla,Technician,2025-01-12,EDI,0
+C016-E014,C016,Jackie Bridges,Technician,2024-12-26,Manual,0
+C016-E015,C016,Steven Olson,Manager,2024-11-13,EDI,1
+C016-E016,C016,Mr. Michael Stevens,Clerk,2025-03-23,EDI,0
+C016-E017,C016,Crystal Nelson,HR Assistant,2025-02-24,EDI,0
+C016-E018,C016,Kathryn Terry,Technician,2024-10-22,EDI,0
+C016-E019,C016,Wendy Armstrong,Clerk,2025-04-01,EDI,0
+C016-E020,C016,Mitchell Martinez,HR Assistant,2025-03-28,EDI,0
+C016-E021,C016,Joseph Miller,Clerk,2025-02-02,EDI,0
+C016-E022,C016,Alan Wright,Clerk,2025-03-08,EDI,0
+C016-E023,C016,Diana Lamb,Manager,2024-11-03,EDI,0
+C016-E024,C016,Brian Thompson,HR Assistant,2024-12-23,Manual,0
+C016-E025,C016,Christopher Mosley,Technician,2025-02-24,EDI,0
+C016-E026,C016,Sarah Gutierrez,Technician,2024-11-26,EDI,1
+C016-E027,C016,Laura Jones,Clerk,2025-01-21,EDI,0
+C016-E028,C016,Anna Gordon,Clerk,2024-12-17,Manual,0
+C017-E001,C017,Andrew Nelson,Technician,2024-10-22,EDI,0
+C017-E002,C017,Scott Smith,HR Assistant,2025-03-22,Manual,0
+C017-E003,C017,Sara Cain,Clerk,2024-12-07,Manual,0
+C017-E004,C017,Austin Perez,Clerk,2024-12-18,Manual,0
+C017-E005,C017,Anthony Mendoza,Technician,2024-12-06,EDI,0
+C017-E006,C017,Rhonda Foster,Manager,2025-01-24,EDI,0
+C017-E007,C017,James Olson,Clerk,2025-03-24,Manual,0
+C017-E008,C017,Justin Fisher,HR Assistant,2025-02-28,EDI,0
+C017-E009,C017,Henry Summers,Clerk,2025-01-26,EDI,0
+C017-E010,C017,Aaron Johnson,Clerk,2025-01-15,EDI,0
+C017-E011,C017,Amber Esparza,HR Assistant,2025-03-01,EDI,0
+C017-E012,C017,Tara Williams,HR Assistant,2025-04-02,EDI,0
+C017-E013,C017,Ashley Rice,Manager,2024-12-02,EDI,0
+C017-E014,C017,Taylor Robinson,HR Assistant,2025-03-13,EDI,0
+C017-E015,C017,Christopher Arnold,Manager,2025-02-25,EDI,0
+C017-E016,C017,Sylvia Rodriguez,Clerk,2025-01-06,EDI,1
+C017-E017,C017,Megan Lynch,Technician,2024-10-27,Manual,0
+C017-E018,C017,Alexander Barnes,HR Assistant,2025-04-03,Manual,0
+C017-E019,C017,Maurice Nelson,Technician,2024-11-19,Manual,0
+C017-E020,C017,Sandra Daniel,HR Assistant,2025-01-17,EDI,0
+C017-E021,C017,Hannah Hayes,Technician,2025-02-18,EDI,0
+C017-E022,C017,Michael Ayala,HR Assistant,2024-10-25,Manual,0
+C017-E023,C017,Maria Pope,Clerk,2024-11-26,EDI,0
+C017-E024,C017,Lisa Weeks,Technician,2024-12-17,EDI,0
+C017-E025,C017,Kenneth Bell,Manager,2025-02-02,EDI,0
+C017-E026,C017,Alexander Christian,Clerk,2025-01-29,Manual,0
+C018-E001,C018,Teresa Hatfield,HR Assistant,2024-10-25,EDI,0
+C018-E002,C018,Denise Lamb,Manager,2025-02-20,EDI,0
+C018-E003,C018,Scott Ross,Technician,2025-01-26,EDI,0
+C018-E004,C018,Brittany Fitzgerald,Clerk,2024-12-13,EDI,0
+C018-E005,C018,Paul Henderson,Technician,2024-12-15,Manual,0
+C018-E006,C018,Samantha Nelson,Clerk,2024-12-21,Manual,0
+C018-E007,C018,Michael Johnson,HR Assistant,2025-01-08,EDI,0
+C018-E008,C018,Amy Wright MD,Clerk,2025-02-28,EDI,0
+C018-E009,C018,Cheryl Brown,Manager,2025-02-03,EDI,0
+C018-E010,C018,Thomas Bryant,Manager,2025-02-25,EDI,0
+C018-E011,C018,Marcia Lee,Clerk,2024-10-24,EDI,0
+C018-E012,C018,Bethany Franklin,Manager,2025-03-23,EDI,0
+C018-E013,C018,Heather Lucas,Manager,2025-02-22,Manual,0
+C018-E014,C018,Geoffrey Parker,HR Assistant,2025-01-26,Manual,0
+C018-E015,C018,Sarah Byrd,Technician,2025-01-04,EDI,0
+C018-E016,C018,Lisa Benson,Clerk,2024-11-17,Manual,0
+C018-E017,C018,Nicholas Rogers,Technician,2025-02-05,Manual,0
+C019-E001,C019,Mary Sellers,Clerk,2024-10-31,EDI,0
+C019-E002,C019,Charles Graves,Manager,2024-11-07,EDI,0
+C019-E003,C019,Kathleen Wolf,Technician,2024-10-24,EDI,0
+C019-E004,C019,Laura Torres,Manager,2025-03-29,Manual,0
+C019-E005,C019,Michelle Cervantes,Technician,2024-10-16,Manual,1
+C019-E006,C019,Timothy Ortiz,HR Assistant,2024-12-27,EDI,0
+C019-E007,C019,Diane Perry,HR Assistant,2024-12-10,EDI,0
+C019-E008,C019,Dillon Anderson,Clerk,2024-12-05,EDI,0
+C019-E009,C019,Erin Moore,Technician,2024-11-29,Manual,0
+C019-E010,C019,Brian Hodge,HR Assistant,2024-11-27,EDI,0
+C019-E011,C019,Christopher Anderson,Technician,2025-04-07,EDI,0
+C019-E012,C019,Jennifer Stephenson,Clerk,2025-01-26,EDI,0
+C020-E001,C020,Nicole Anderson,Clerk,2025-02-19,EDI,0
+C020-E002,C020,Vanessa Davis,Technician,2025-03-23,EDI,0
+C020-E003,C020,Mrs. Ashley Kemp MD,Manager,2025-03-17,EDI,0
+C020-E004,C020,Joseph Mcgee,Clerk,2024-12-16,EDI,0
+C020-E005,C020,Rebecca Pace,Clerk,2025-02-24,EDI,0
+C020-E006,C020,Noah Conley,Manager,2024-11-28,EDI,0
+C020-E007,C020,Kevin Reed,HR Assistant,2024-12-10,EDI,0
+C020-E008,C020,John Lynch,HR Assistant,2025-02-01,EDI,0
+C020-E009,C020,Bianca Davis,HR Assistant,2024-12-12,Manual,0
+C020-E010,C020,Eddie Fleming,Technician,2025-01-30,Manual,0
+C020-E011,C020,John Powers,Clerk,2024-10-19,EDI,0
+C020-E012,C020,John Jordan,Clerk,2025-02-10,EDI,0
+C020-E013,C020,Sandy Mitchell,HR Assistant,2024-11-07,EDI,0
+C020-E014,C020,Hayden Phillips,Manager,2024-12-17,EDI,0
+C020-E015,C020,Amy Odom,Technician,2025-03-08,EDI,0
+C020-E016,C020,Jeffrey Hurst,Clerk,2024-10-26,Manual,0
+C020-E017,C020,Travis Elliott,Clerk,2025-02-05,Manual,0
+C020-E018,C020,Elizabeth Davis,HR Assistant,2024-11-29,Manual,0
+C020-E019,C020,Jean Brewer DDS,Technician,2024-12-13,EDI,0
+C020-E020,C020,Melissa Campos,Clerk,2025-03-24,EDI,0
+C020-E021,C020,Debra Douglas,Clerk,2024-12-14,EDI,0
+C020-E022,C020,Todd Price,Clerk,2024-11-14,EDI,0
+C020-E023,C020,Tara Gentry,HR Assistant,2024-12-28,EDI,0
+C020-E024,C020,Zachary Powell Jr.,Clerk,2024-11-24,Manual,1
+C021-E001,C021,Joel Foster,HR Assistant,2024-12-17,EDI,0
+C021-E002,C021,Hannah Powers,Clerk,2024-11-23,EDI,0
+C021-E003,C021,Claudia Harrison,Manager,2025-03-31,EDI,0
+C021-E004,C021,John Duke,Manager,2024-12-21,EDI,0
+C021-E005,C021,Amber Nelson,HR Assistant,2024-12-14,EDI,0
+C021-E006,C021,Gregory Price,Technician,2024-12-11,EDI,0
+C021-E007,C021,Andrew Cervantes,Clerk,2024-11-22,EDI,0
+C022-E001,C022,Rhonda Miller,HR Assistant,2025-03-21,Manual,0
+C022-E002,C022,Joseph Mckinney,Manager,2025-03-14,EDI,0
+C022-E003,C022,Shane Romero,Clerk,2025-02-21,EDI,0
+C022-E004,C022,Jimmy Steele,Manager,2025-01-30,EDI,0
+C022-E005,C022,Brenda Olson,Clerk,2025-01-02,EDI,0
+C022-E006,C022,Dennis Mccarty,Technician,2025-02-11,EDI,0
+C022-E007,C022,Angel Giles,Technician,2024-10-23,Manual,0
+C022-E008,C022,Lisa Burnett,HR Assistant,2024-12-23,EDI,0
+C022-E009,C022,Dustin Jackson MD,Clerk,2025-01-01,EDI,0
+C022-E010,C022,Jeffrey Brown,HR Assistant,2024-11-08,EDI,0
+C022-E011,C022,Dr. Kaitlyn Guzman,Clerk,2025-04-13,EDI,0
+C022-E012,C022,Mr. William Mason,HR Assistant,2025-03-10,EDI,0
+C022-E013,C022,Frances Cuevas,Manager,2024-10-29,Manual,1
+C022-E014,C022,Christopher Moreno,HR Assistant,2025-04-16,EDI,0
+C022-E015,C022,Kristin Beltran,HR Assistant,2025-02-06,EDI,0
+C022-E016,C022,Rodney Howell,HR Assistant,2025-01-04,Manual,0
+C022-E017,C022,Angela Holland,Technician,2025-01-03,Manual,0
+C023-E001,C023,Erika Perez,HR Assistant,2025-01-29,Manual,0
+C023-E002,C023,Stephanie Brown,Technician,2024-11-06,EDI,0
+C023-E003,C023,Patricia Winters,Technician,2025-01-19,Manual,0
+C023-E004,C023,Joshua Bird,Manager,2025-01-26,EDI,0
+C023-E005,C023,Donna Moreno,Technician,2025-01-23,EDI,0
+C023-E006,C023,Laura Wilkinson,HR Assistant,2025-02-18,EDI,0
+C023-E007,C023,Debra Hughes,HR Assistant,2024-12-06,EDI,0
+C023-E008,C023,Michael Sanchez,Clerk,2025-02-16,EDI,0
+C023-E009,C023,Brian Valencia,Clerk,2024-11-15,EDI,0
+C023-E010,C023,Francisco Nguyen,Clerk,2025-03-29,EDI,0
+C023-E011,C023,Cindy Durham,Manager,2024-12-26,Manual,0
+C023-E012,C023,Curtis Marshall,Manager,2024-10-29,Manual,1
+C023-E013,C023,Alexander Ortega,Clerk,2024-10-18,EDI,0
+C023-E014,C023,Leslie Novak,HR Assistant,2024-12-11,EDI,0
+C024-E001,C024,Sarah Daniel,HR Assistant,2025-02-21,EDI,0
+C024-E002,C024,Daniel Gonzalez,Clerk,2024-12-25,EDI,0
+C024-E003,C024,David Moore,Clerk,2024-11-03,Manual,0
+C024-E004,C024,Mary Lewis,Clerk,2025-01-04,EDI,0
+C024-E005,C024,Kelsey Gibson,Technician,2025-02-24,Manual,0
+C024-E006,C024,Kevin King,Manager,2024-12-05,EDI,0
+C024-E007,C024,Phillip Brown,Manager,2024-11-20,EDI,1
+C024-E008,C024,Jamie Robles,Clerk,2025-03-29,EDI,0
+C024-E009,C024,Julie Ruiz,Technician,2024-12-04,Manual,0
+C025-E001,C025,Randy Holland,Technician,2025-03-14,Manual,0
+C025-E002,C025,Taylor Knight,Clerk,2024-10-24,EDI,0
+C025-E003,C025,Jody Campbell,Clerk,2024-12-28,Manual,0
+C025-E004,C025,Robert Green,Technician,2024-11-16,Manual,0
+C025-E005,C025,Nicholas Baker,Clerk,2025-01-26,EDI,0
+C025-E006,C025,Michael Benton,Technician,2025-02-20,EDI,0
+C025-E007,C025,Julie Huffman,Manager,2025-02-14,EDI,0
+C025-E008,C025,Jonathan White,Manager,2025-03-07,Manual,0
+C025-E009,C025,Robin Wheeler,Manager,2024-12-03,EDI,0
+C025-E010,C025,Lisa Castaneda,Manager,2025-01-28,EDI,0
+C025-E011,C025,Dr. Catherine Lee,Clerk,2024-11-18,EDI,0
+C025-E012,C025,James Knox,Technician,2025-01-26,EDI,0
+C025-E013,C025,Jacob Chavez,Manager,2025-03-19,Manual,0
+C025-E014,C025,Sean Barber Jr.,Clerk,2025-01-23,EDI,0
+C025-E015,C025,Erin Roy,HR Assistant,2024-11-03,EDI,0
+C025-E016,C025,Richard Nelson,HR Assistant,2025-02-18,EDI,0
+C025-E017,C025,Elizabeth Allen,Manager,2024-12-15,EDI,0
+C025-E018,C025,Kenneth Mccarthy,Clerk,2024-10-26,EDI,0
+C025-E019,C025,Olivia Villanueva,Clerk,2024-12-31,EDI,0
+C025-E020,C025,Patrick Brown,Manager,2024-10-21,Manual,0
+C025-E021,C025,Julie Rose,Manager,2024-10-27,Manual,1
+C025-E022,C025,Samantha Duffy,Technician,2025-02-06,EDI,0
+C025-E023,C025,Jonathan Ballard,Manager,2025-01-09,EDI,0
+C025-E024,C025,Russell Gates,HR Assistant,2024-11-24,Manual,0
+C025-E025,C025,Harry Williams,HR Assistant,2024-11-10,Manual,0
+C026-E001,C026,Daniel Ferguson,Clerk,2025-03-07,Manual,0
+C026-E002,C026,John Jones,HR Assistant,2024-12-19,EDI,0
+C026-E003,C026,Michael Miller,Manager,2025-02-26,Manual,0
+C026-E004,C026,Luke Lawrence,Clerk,2024-10-24,EDI,0
+C026-E005,C026,Anthony Williams,Manager,2024-10-26,EDI,0
+C026-E006,C026,William James,Technician,2025-04-02,EDI,0
+C026-E007,C026,Paul Dean,Technician,2025-01-31,EDI,0
+C026-E008,C026,David Francis,HR Assistant,2025-02-27,EDI,0
+C026-E009,C026,Cheryl Jones,Manager,2025-03-28,EDI,0
+C026-E010,C026,Eric Johnson,Technician,2024-10-28,Manual,0
+C026-E011,C026,David Clay,Manager,2025-01-05,EDI,0
+C026-E012,C026,Zachary Guzman,Technician,2025-03-29,EDI,0
+C026-E013,C026,Brandon Carter,Clerk,2024-10-31,EDI,0
+C026-E014,C026,Sarah Ramirez,Manager,2024-12-10,EDI,0
+C026-E015,C026,Larry Velasquez,Manager,2024-12-08,Manual,0
+C026-E016,C026,Jennifer Johnson,HR Assistant,2025-04-13,EDI,0
+C026-E017,C026,Billy George,Clerk,2024-11-26,EDI,0
+C026-E018,C026,David Miller,HR Assistant,2025-02-14,EDI,0
+C027-E001,C027,Geoffrey Nunez,HR Assistant,2024-11-22,Manual,0
+C027-E002,C027,Linda Woods,HR Assistant,2025-03-17,Manual,0
+C027-E003,C027,Alicia Hodges,Technician,2025-01-06,Manual,0
+C027-E004,C027,Andrea Jordan,HR Assistant,2024-11-24,EDI,0
+C027-E005,C027,Travis Bryan,HR Assistant,2024-12-04,EDI,0
+C027-E006,C027,Mrs. Jenna Moore,Technician,2025-03-10,EDI,0
+C027-E007,C027,Wyatt Alvarez,Technician,2025-02-05,EDI,0
+C027-E008,C027,Mary Henson,Manager,2024-11-26,Manual,0
+C027-E009,C027,Amber Ryan,Technician,2024-12-26,Manual,0
+C027-E010,C027,Bonnie Bailey,Manager,2025-04-10,EDI,0
+C027-E011,C027,Alexander Schaefer,Clerk,2025-04-16,Manual,0
+C027-E012,C027,Tammy Rodriguez,Clerk,2025-03-17,EDI,0
+C027-E013,C027,Jeremy Martinez,Technician,2025-02-04,EDI,0
+C027-E014,C027,John Atkinson,Manager,2024-12-11,EDI,0
+C027-E015,C027,Alyssa Murray,Manager,2024-11-09,EDI,0
+C027-E016,C027,Jeffrey Jackson,Clerk,2025-03-06,Manual,1
+C027-E017,C027,Brandi Ruiz,HR Assistant,2024-10-27,EDI,0
+C027-E018,C027,Cheryl Bell,Technician,2024-12-12,Manual,0
+C027-E019,C027,Sarah Preston,Clerk,2025-02-28,EDI,0
+C027-E020,C027,Natasha Bray,Technician,2025-02-20,Manual,0
+C027-E021,C027,Jennifer Davis,Manager,2024-11-27,EDI,0
+C027-E022,C027,Corey Mcdonald,HR Assistant,2025-01-09,Manual,0
+C027-E023,C027,Ian Strong,HR Assistant,2024-12-06,EDI,0
+C027-E024,C027,Nicholas Collins,HR Assistant,2025-02-26,EDI,0
+C027-E025,C027,Dustin Smith,Manager,2025-02-27,Manual,0
+C027-E026,C027,Mr. James Reeves,Clerk,2025-02-25,EDI,0
+C028-E001,C028,Stacy Rivera,Clerk,2025-04-09,EDI,0
+C028-E002,C028,Amanda Price,Manager,2025-03-11,EDI,0
+C028-E003,C028,Nicole Campos,Manager,2024-11-10,EDI,0
+C028-E004,C028,Samuel White,Technician,2024-12-09,Manual,0
+C028-E005,C028,Darius Price,HR Assistant,2025-03-08,EDI,0
+C028-E006,C028,Michelle Williams,Manager,2024-11-28,EDI,0
+C028-E007,C028,Laura Hogan,Clerk,2024-10-31,EDI,0
+C028-E008,C028,Christopher Washington,HR Assistant,2025-03-16,Manual,0
+C028-E009,C028,Joanna Williamson,Manager,2025-04-02,Manual,1
+C028-E010,C028,Kelly Richardson,Manager,2024-11-14,EDI,0
+C028-E011,C028,Monique Kim,Clerk,2025-01-15,EDI,0
+C028-E012,C028,Vanessa Black,HR Assistant,2024-11-16,EDI,0
+C028-E013,C028,Ms. Tammie Hayden PhD,Manager,2025-03-05,EDI,0
+C028-E014,C028,Justin Love,Clerk,2024-10-27,EDI,0
+C028-E015,C028,Amber Lang,HR Assistant,2025-03-07,Manual,0
+C028-E016,C028,Jacqueline Brown,Manager,2025-04-03,EDI,0
+C028-E017,C028,David Grant,HR Assistant,2025-04-09,EDI,0
+C028-E018,C028,Kathryn Anderson,Manager,2025-01-31,EDI,0
+C028-E019,C028,Robin Velasquez,Clerk,2024-12-04,EDI,0
+C028-E020,C028,Stephen Hamilton,Manager,2024-12-12,EDI,0
+C028-E021,C028,Stephen Hunt,Clerk,2025-04-16,Manual,0
+C028-E022,C028,Samantha Hawkins,HR Assistant,2025-02-01,EDI,0
+C028-E023,C028,Erika Black,HR Assistant,2024-12-21,EDI,0
+C028-E024,C028,Amy Lozano,Manager,2025-03-26,EDI,0
+C028-E025,C028,Jonathan Romero,Technician,2024-11-04,Manual,0
+C028-E026,C028,Harold Morrison,HR Assistant,2024-11-16,EDI,0
+C029-E001,C029,Christian Coleman,Clerk,2024-12-21,Manual,0
+C029-E002,C029,George Johnson,Manager,2024-12-19,Manual,0
+C029-E003,C029,Cory May,Manager,2025-02-27,EDI,0
+C029-E004,C029,John Ruiz,HR Assistant,2025-03-27,Manual,0
+C029-E005,C029,Anthony Durham,Technician,2024-12-09,EDI,0
+C029-E006,C029,Jillian Harvey,Technician,2025-02-28,EDI,0
+C029-E007,C029,Michelle Bray,Clerk,2025-03-09,Manual,0
+C029-E008,C029,Tanya Young,HR Assistant,2024-10-30,EDI,0
+C029-E009,C029,Richard Carr,Clerk,2024-11-19,Manual,0
+C029-E010,C029,Kimberly Johnson,HR Assistant,2024-10-22,Manual,0
+C029-E011,C029,Dr. Mark Moore,HR Assistant,2024-10-23,Manual,0
+C029-E012,C029,Erin Lawson,Technician,2024-11-30,EDI,0
+C029-E013,C029,Kristopher Oconnell,Technician,2025-04-03,EDI,0
+C029-E014,C029,Maria Young,Manager,2024-11-05,EDI,0
+C030-E001,C030,Kimberly Ali,HR Assistant,2025-04-11,Manual,0
+C030-E002,C030,Debra Anderson,Clerk,2025-02-06,EDI,0
+C030-E003,C030,Jimmy Page,Manager,2024-12-07,Manual,0
+C030-E004,C030,Tony Singleton,Clerk,2025-03-26,Manual,0
+C030-E005,C030,Ana Bennett,Technician,2024-11-10,EDI,0
+C030-E006,C030,Cheryl Zimmerman,Technician,2024-10-20,Manual,0
+C030-E007,C030,Linda Jones,Clerk,2025-02-08,EDI,0
+C030-E008,C030,Brent Calderon,Clerk,2025-04-02,EDI,0
+C030-E009,C030,Barbara Thompson,Technician,2025-02-23,EDI,0
+C030-E010,C030,Jill Norris,Clerk,2025-03-15,EDI,0
+C030-E011,C030,Mark Rhodes,HR Assistant,2024-12-25,EDI,0
+C030-E012,C030,Brenda Martin,Technician,2025-01-26,EDI,0
+C031-E001,C031,Leah Martinez,HR Assistant,2025-01-02,EDI,0
+C031-E002,C031,Sandra Reeves,Clerk,2024-11-10,EDI,0
+C031-E003,C031,Billy Lee,Clerk,2024-11-19,EDI,0
+C031-E004,C031,Daniel Johnson,Technician,2024-12-27,EDI,0
+C031-E005,C031,Katherine Price,HR Assistant,2025-02-11,EDI,0
+C031-E006,C031,Megan Bowman,Clerk,2024-12-12,EDI,0
+C031-E007,C031,Gabriel Carter,Manager,2025-04-10,EDI,0
+C031-E008,C031,Rachel Martinez,HR Assistant,2024-10-31,EDI,0
+C031-E009,C031,Lauren Cruz,Manager,2024-10-31,EDI,0
+C031-E010,C031,Melissa Munoz,Technician,2024-12-07,EDI,0
+C031-E011,C031,Jeanne Cox,Clerk,2024-10-28,EDI,0
+C031-E012,C031,Jennifer Boyd,Technician,2024-10-31,EDI,0
+C031-E013,C031,Ana Simmons,Technician,2024-10-22,EDI,0
+C031-E014,C031,David Gutierrez,Clerk,2025-01-31,EDI,0
+C031-E015,C031,Michelle Harris,Clerk,2024-10-19,EDI,0
+C031-E016,C031,Stephanie Perkins,Manager,2025-02-06,EDI,0
+C031-E017,C031,Crystal Mason,Technician,2024-11-06,EDI,0
+C032-E001,C032,Barbara Baxter,Manager,2025-01-26,EDI,0
+C032-E002,C032,Timothy Perez,HR Assistant,2024-12-04,Manual,0
+C032-E003,C032,Michael Norman,HR Assistant,2025-03-14,EDI,0
+C032-E004,C032,Cynthia Shah,Clerk,2024-10-22,EDI,0
+C032-E005,C032,David Beasley,HR Assistant,2025-01-31,Manual,0
+C032-E006,C032,Julia Weber,Clerk,2024-11-14,Manual,0
+C032-E007,C032,Mr. Joshua Lopez,Manager,2025-03-24,EDI,0
+C032-E008,C032,Nancy Peterson,Technician,2024-11-11,EDI,0
+C032-E009,C032,Angela Daniel,HR Assistant,2025-02-05,EDI,0
+C032-E010,C032,Rebecca Jones,Clerk,2025-01-13,Manual,0
+C032-E011,C032,Elizabeth Hartman,Manager,2025-03-13,Manual,0
+C032-E012,C032,Kevin Jones,Technician,2025-01-19,EDI,0
+C032-E013,C032,Mark Larsen,HR Assistant,2025-03-14,Manual,0
+C032-E014,C032,Emily Bishop,Clerk,2025-01-08,Manual,0
+C032-E015,C032,Jeff Johnson Jr.,Manager,2025-02-22,EDI,0
+C032-E016,C032,Savannah Ramos,Technician,2024-10-30,EDI,1
+C033-E001,C033,Samuel Myers,Technician,2024-12-15,EDI,0
+C033-E002,C033,Dr. Leslie Andrews,Clerk,2024-10-29,EDI,0
+C033-E003,C033,Michael Snyder,Technician,2024-11-25,Manual,0
+C033-E004,C033,Jocelyn Watkins,HR Assistant,2025-03-22,EDI,0
+C033-E005,C033,Anna Thornton,Manager,2025-01-02,EDI,0
+C033-E006,C033,Matthew Murphy,Clerk,2024-11-23,EDI,0
+C034-E001,C034,David Murphy,Technician,2024-12-15,EDI,0
+C034-E002,C034,Daisy Farrell,Technician,2025-02-08,EDI,0
+C034-E003,C034,Christine Walker DDS,Manager,2025-01-31,EDI,0
+C034-E004,C034,John Johnson,Manager,2024-12-09,EDI,0
+C034-E005,C034,Diane Ho,HR Assistant,2024-12-13,Manual,0
+C034-E006,C034,Carrie Banks,Manager,2024-11-28,Manual,0
+C034-E007,C034,Brenda Smith,HR Assistant,2024-12-27,EDI,0
+C034-E008,C034,Pamela Chase,HR Assistant,2025-03-21,EDI,0
+C034-E009,C034,Joseph Scott,Manager,2025-01-09,EDI,1
+C035-E001,C035,Kenneth Lowery,Manager,2025-03-02,Manual,0
+C035-E002,C035,James Casey,HR Assistant,2024-10-31,EDI,0
+C035-E003,C035,Mason Baker,Manager,2024-11-05,EDI,0
+C035-E004,C035,Timothy Ramirez,Technician,2025-03-19,Manual,0
+C035-E005,C035,Erik Guerrero,Manager,2024-11-21,EDI,0
+C035-E006,C035,Evan Miranda,HR Assistant,2025-01-30,EDI,0
+C035-E007,C035,Jennifer Long,Technician,2024-10-30,EDI,0
+C035-E008,C035,Susan Acosta,Technician,2025-01-25,Manual,0
+C035-E009,C035,Olivia Davis,HR Assistant,2025-02-14,EDI,0
+C035-E010,C035,Richard Simpson,Manager,2025-03-13,EDI,0
+C035-E011,C035,Isabella George,Clerk,2025-01-31,Manual,0
+C035-E012,C035,Brian Atkinson,Technician,2025-04-16,EDI,0
+C035-E013,C035,Wayne Andrews,HR Assistant,2025-04-13,Manual,0
+C036-E001,C036,Aaron Miller,HR Assistant,2024-11-20,Manual,0
+C036-E002,C036,Jennifer Smith,Clerk,2025-03-02,EDI,1
+C036-E003,C036,Jill Jones,Clerk,2025-02-17,Manual,0
+C036-E004,C036,Linda King,Technician,2025-04-13,EDI,0
+C036-E005,C036,Colleen Edwards,Manager,2024-12-29,Manual,0
+C036-E006,C036,Ronald Hernandez,Technician,2025-04-10,EDI,0
+C036-E007,C036,Catherine Brown,Manager,2024-11-10,EDI,0
+C036-E008,C036,Anthony Durham,Manager,2025-03-04,EDI,0
+C036-E009,C036,Allison Robertson,Manager,2025-01-03,EDI,0
+C036-E010,C036,Sandra Castaneda,Clerk,2024-12-04,EDI,0
+C036-E011,C036,Melissa Wright,Technician,2024-12-24,EDI,0
+C037-E001,C037,Maria Fletcher,Manager,2024-10-18,Manual,1
+C037-E002,C037,Jonathan Warren,Technician,2025-01-10,EDI,0
+C037-E003,C037,Beth Jackson,HR Assistant,2024-10-30,Manual,0
+C037-E004,C037,David Dickson,Technician,2024-11-01,Manual,0
+C037-E005,C037,William Fleming,Manager,2024-11-25,EDI,0
+C037-E006,C037,Morgan Holmes,Clerk,2025-01-06,EDI,0
+C037-E007,C037,Rebecca Ochoa,Manager,2025-03-12,Manual,0
+C037-E008,C037,Michael Robinson,Technician,2025-01-19,Manual,0
+C037-E009,C037,Todd Williams,Manager,2024-11-20,EDI,0
+C037-E010,C037,Michael Patton,Clerk,2024-12-28,EDI,0
+C037-E011,C037,Denise Mitchell,Technician,2025-03-19,EDI,0
+C037-E012,C037,Dale Velasquez DVM,HR Assistant,2024-10-23,Manual,0
+C037-E013,C037,Erin Gonzalez,Manager,2025-03-29,EDI,0
+C037-E014,C037,Gerald Russo,Manager,2025-01-05,EDI,0
+C037-E015,C037,Daniel Johnson,Manager,2024-11-16,EDI,0
+C037-E016,C037,Mr. Charles Nixon,Clerk,2025-01-13,EDI,0
+C037-E017,C037,Betty Dillon,HR Assistant,2024-12-29,EDI,0
+C037-E018,C037,Daniel Miranda,Technician,2024-11-21,Manual,0
+C037-E019,C037,Kelly Perry,Technician,2024-12-13,EDI,0
+C037-E020,C037,Shelby Hernandez,Clerk,2024-11-15,EDI,0
+C037-E021,C037,Robert Mcguire,HR Assistant,2024-11-29,EDI,0
+C038-E001,C038,Morgan Patterson,Clerk,2025-03-21,EDI,0
+C038-E002,C038,Katherine Flores,HR Assistant,2024-11-01,EDI,0
+C038-E003,C038,Laura Robinson,Technician,2025-03-11,EDI,0
+C038-E004,C038,Raymond Flores,Manager,2025-02-24,Manual,0
+C038-E005,C038,Kimberly Schwartz,Manager,2024-12-30,Manual,0
+C038-E006,C038,Jeffrey Tapia,Clerk,2024-11-30,Manual,0
+C038-E007,C038,Michelle Kim,Clerk,2025-03-07,EDI,0
+C038-E008,C038,James Ramirez,Clerk,2025-01-27,EDI,0
+C038-E009,C038,Kenneth Mann,HR Assistant,2024-12-07,EDI,0
+C038-E010,C038,Lance Evans,Clerk,2024-12-17,Manual,0
+C038-E011,C038,Christopher Rogers,Technician,2025-01-31,EDI,0
+C038-E012,C038,Eric Love,Manager,2025-01-26,EDI,0
+C038-E013,C038,Brandon Martinez,Technician,2024-12-19,Manual,0
+C038-E014,C038,Elizabeth Stuart,Technician,2024-11-17,EDI,0
+C038-E015,C038,Joy White,Manager,2025-02-24,EDI,0
+C038-E016,C038,Jason Jordan,HR Assistant,2025-04-11,EDI,0
+C038-E017,C038,Adam Jones,Technician,2025-02-16,EDI,0
+C038-E018,C038,Evelyn Coleman,Manager,2025-03-13,Manual,0
+C038-E019,C038,Martin Smith,Technician,2025-03-11,EDI,0
+C038-E020,C038,Taylor Olson,HR Assistant,2025-04-01,Manual,0
+C038-E021,C038,Gloria Bowen,HR Assistant,2025-01-12,EDI,0
+C038-E022,C038,Bryce Larson,HR Assistant,2025-02-17,EDI,0
+C038-E023,C038,Jennifer Hubbard,Technician,2025-03-10,Manual,0
+C038-E024,C038,Susan Cummings,Technician,2025-02-12,EDI,0
+C039-E001,C039,Kevin Holden,Manager,2025-04-08,Manual,0
+C039-E002,C039,Andrew Henderson,Manager,2025-04-09,EDI,0
+C039-E003,C039,Kimberly Diaz,HR Assistant,2024-10-16,Manual,0
+C039-E004,C039,Diana Mclaughlin,Manager,2025-04-07,Manual,0
+C039-E005,C039,Laura Adams,Manager,2024-10-22,EDI,0
+C039-E006,C039,Crystal Ramirez,Technician,2024-12-04,Manual,0
+C039-E007,C039,Carla Johnson,Manager,2024-12-02,EDI,0
+C039-E008,C039,Michael Burton,Technician,2024-10-31,EDI,0
+C039-E009,C039,Kimberly Boyd,HR Assistant,2024-11-18,EDI,0
+C039-E010,C039,Jason Morris,Clerk,2025-01-02,EDI,0
+C039-E011,C039,Danny Davis,Manager,2024-10-22,EDI,0
+C039-E012,C039,Dakota Roberson,Clerk,2025-03-21,Manual,0
+C039-E013,C039,Jerry Clark,Clerk,2025-02-22,EDI,0
+C039-E014,C039,Renee Lopez,Manager,2025-03-05,EDI,0
+C039-E015,C039,Victoria Perez,HR Assistant,2025-03-27,EDI,0
+C039-E016,C039,Jennifer Miller,Clerk,2024-10-18,Manual,0
+C039-E017,C039,Lauren Mullen,Technician,2024-11-16,EDI,0
+C039-E018,C039,Jasmine Williams,Technician,2024-10-27,Manual,0
+C039-E019,C039,Wyatt Randall,Clerk,2025-03-05,EDI,0
+C039-E020,C039,Mark Ramirez,HR Assistant,2025-02-02,EDI,0
+C039-E021,C039,John Walls,Manager,2024-11-13,EDI,0
+C039-E022,C039,Sharon Campbell,Clerk,2024-11-18,EDI,0
+C040-E001,C040,Darius Murray,Manager,2024-11-20,EDI,0
+C040-E002,C040,John Bryant,Manager,2025-03-29,EDI,0
+C040-E003,C040,Gregory Mills,Technician,2025-01-14,EDI,0
+C040-E004,C040,Laura Lambert,Manager,2025-04-08,EDI,0
+C040-E005,C040,Jennifer Friedman,HR Assistant,2024-11-24,Manual,0
+C040-E006,C040,Don Wright,Clerk,2025-02-15,EDI,0
+C040-E007,C040,Mary Johnson,Clerk,2025-03-16,EDI,1
+C040-E008,C040,John Conley,HR Assistant,2025-02-24,EDI,0
+C040-E009,C040,Lori Peters DDS,HR Assistant,2025-01-12,EDI,0
+C040-E010,C040,Amy Chambers,HR Assistant,2024-12-28,EDI,0
+C040-E011,C040,Joseph Wilson,Clerk,2025-02-24,EDI,0
+C040-E012,C040,Michael Bush,Clerk,2025-02-15,EDI,0
+C040-E013,C040,Linda White,Manager,2025-02-10,Manual,0
+C040-E014,C040,Jonathon Hardin,HR Assistant,2025-04-02,Manual,1
+C040-E015,C040,Kara King,Manager,2024-11-30,Manual,0
+C040-E016,C040,Jon Vincent,Technician,2024-10-25,Manual,0
+C040-E017,C040,Gina Carr,Clerk,2025-03-25,Manual,0
+C041-E001,C041,Molly Garcia,Manager,2025-04-06,EDI,0
+C041-E002,C041,Andrea Campbell,HR Assistant,2024-10-21,EDI,0
+C041-E003,C041,Robert Morales,Manager,2025-03-28,EDI,0
+C041-E004,C041,Mark Black,Manager,2025-03-03,Manual,0
+C041-E005,C041,Carrie Dickerson,Clerk,2024-10-19,Manual,0
+C041-E006,C041,Christina Barber,Technician,2025-03-16,EDI,0
+C041-E007,C041,Jonathon Durham,Clerk,2025-01-07,EDI,0
+C041-E008,C041,Daniel Miller,Technician,2024-11-15,EDI,0
+C041-E009,C041,John Haas,Technician,2024-11-13,EDI,0
+C041-E010,C041,Joseph Horn,HR Assistant,2025-02-06,Manual,0
+C041-E011,C041,Amber Russell,Manager,2025-03-29,EDI,0
+C041-E012,C041,Troy Bell,HR Assistant,2024-11-16,Manual,0
+C041-E013,C041,Brett Carter,Manager,2024-12-08,Manual,0
+C041-E014,C041,Cody Nichols PhD,Manager,2025-01-11,Manual,0
+C041-E015,C041,Amber Miller,Clerk,2024-12-24,EDI,0
+C041-E016,C041,Michael Erickson,Manager,2025-02-22,Manual,0
+C041-E017,C041,Susan Vargas,Clerk,2024-12-23,Manual,0
+C041-E018,C041,Wendy Miller,Clerk,2024-11-21,Manual,0
+C041-E019,C041,Crystal Martin,Technician,2025-03-09,EDI,1
+C041-E020,C041,Amy Collins,Manager,2024-11-10,EDI,0
+C041-E021,C041,Randy Harris,Clerk,2025-03-31,EDI,0
+C041-E022,C041,Heather Kane,Technician,2024-12-21,EDI,0
+C041-E023,C041,Mark Livingston,Clerk,2024-12-10,EDI,0
+C041-E024,C041,Jose Smith,Manager,2025-01-18,EDI,0
+C041-E025,C041,Rebecca Garcia,Technician,2025-02-18,EDI,0
+C041-E026,C041,Megan Rosario,Clerk,2024-10-26,EDI,0
+C042-E001,C042,Francisco Burke,Technician,2024-12-07,Manual,0
+C042-E002,C042,Jeffrey Young,Clerk,2025-01-20,EDI,0
+C042-E003,C042,Glenda Whitney,Technician,2024-11-18,EDI,0
+C042-E004,C042,Michael Taylor,Manager,2025-01-29,Manual,0
+C042-E005,C042,Shari Evans,Manager,2024-12-05,Manual,0
+C042-E006,C042,Tonya Rios,Manager,2025-02-09,EDI,0
+C042-E007,C042,Tammy Olson,Manager,2025-02-16,Manual,0
+C042-E008,C042,Amanda Kelly,HR Assistant,2025-01-03,EDI,0
+C042-E009,C042,Sandra Mcknight,Technician,2024-12-19,EDI,0
+C042-E010,C042,Emily Dunn,Manager,2024-10-16,Manual,1
+C042-E011,C042,David Keller,Clerk,2025-03-17,EDI,0
+C042-E012,C042,Walter Blair,Clerk,2025-02-02,EDI,0
+C042-E013,C042,Jessica Ochoa,Clerk,2024-10-27,EDI,0
+C042-E014,C042,Frances Moran,HR Assistant,2025-03-21,EDI,0
+C042-E015,C042,Tyler Cohen,HR Assistant,2025-01-22,EDI,0
+C042-E016,C042,Martha Freeman,Technician,2024-12-03,EDI,0
+C042-E017,C042,David Saunders,Manager,2024-12-30,EDI,0
+C042-E018,C042,Nancy Park,Clerk,2025-02-27,EDI,0
+C042-E019,C042,Brandon Castaneda,Technician,2025-04-03,EDI,0
+C042-E020,C042,Alan Rivera,Clerk,2025-01-09,Manual,0
+C042-E021,C042,Zachary Ellis,Clerk,2024-11-24,EDI,0
+C042-E022,C042,Patricia Hall,Manager,2024-11-21,EDI,1
+C042-E023,C042,Holly Rogers,HR Assistant,2024-11-07,Manual,0
+C042-E024,C042,Dr. Gregory Ewing,Technician,2024-12-11,Manual,0
+C042-E025,C042,Regina Martin,Clerk,2025-03-09,Manual,0
+C042-E026,C042,Misty Williams,Manager,2024-12-02,EDI,0
+C042-E027,C042,Tina Hayes,Clerk,2025-03-22,EDI,0
+C042-E028,C042,Bryan Mccall,Manager,2025-01-01,EDI,0
+C042-E029,C042,Patrick Johnson,HR Assistant,2025-01-15,EDI,0
+C043-E001,C043,Kristina Lopez,HR Assistant,2024-10-19,Manual,1
+C043-E002,C043,Adrian Fisher,Clerk,2024-10-19,EDI,1
+C043-E003,C043,Brian Ramirez,Technician,2024-11-17,Manual,1
+C043-E004,C043,Gerald Duncan,Clerk,2025-01-01,EDI,0
+C043-E005,C043,Christopher Preston,Manager,2025-03-05,Manual,0
+C043-E006,C043,Sandra Walters,HR Assistant,2025-03-15,EDI,0
+C043-E007,C043,Veronica Perkins,HR Assistant,2025-03-08,Manual,1
+C043-E008,C043,Ryan Anderson,Technician,2025-02-10,Manual,0
+C043-E009,C043,Taylor Hudson,Manager,2025-02-03,Manual,0
+C043-E010,C043,Ronald Salazar,Clerk,2025-03-12,EDI,0
+C043-E011,C043,Kristin Murphy,Manager,2025-02-24,Manual,0
+C043-E012,C043,Christopher Ayala,Technician,2025-01-09,Manual,0
+C044-E001,C044,Adam Moore,Clerk,2024-12-12,Manual,0
+C044-E002,C044,Emily Yates,Clerk,2024-11-06,EDI,0
+C044-E003,C044,Mr. John Ramirez,Clerk,2024-12-28,EDI,0
+C044-E004,C044,Lisa Fields,HR Assistant,2025-04-02,Manual,0
+C044-E005,C044,Lisa Yates,Clerk,2024-10-23,Manual,0
+C044-E006,C044,Jacqueline Reed,Technician,2025-03-06,EDI,0
+C044-E007,C044,Vanessa Mitchell,Manager,2024-11-08,EDI,0
+C044-E008,C044,Jennifer Greer,Technician,2025-04-09,EDI,0
+C044-E009,C044,Erin Jackson,HR Assistant,2025-03-08,Manual,0
+C044-E010,C044,Karen Brooks,HR Assistant,2024-11-20,EDI,0
+C044-E011,C044,Robert Smith,HR Assistant,2025-03-10,Manual,0
+C044-E012,C044,Michael Castillo,HR Assistant,2024-12-26,EDI,0
+C044-E013,C044,Tanya Thomas,Manager,2025-03-29,EDI,0
+C044-E014,C044,Taylor Watson,HR Assistant,2025-02-26,Manual,0
+C044-E015,C044,Bradley Riggs,HR Assistant,2025-01-21,EDI,0
+C044-E016,C044,Elizabeth English,Technician,2024-11-25,EDI,1
+C044-E017,C044,Alexander Martinez,Manager,2024-11-17,EDI,0
+C044-E018,C044,Jerry Newton,Manager,2024-10-21,EDI,0
+C044-E019,C044,Carl Smith,HR Assistant,2025-02-20,Manual,0
+C044-E020,C044,Megan Bass,Clerk,2025-02-20,EDI,1
+C044-E021,C044,Monica Jackson,Technician,2025-04-12,EDI,0
+C044-E022,C044,Anthony Knight,Technician,2024-12-20,Manual,0
+C044-E023,C044,Sarah Lowe,Clerk,2024-12-03,EDI,0
+C044-E024,C044,Jaime Baker,Clerk,2024-12-01,EDI,0
+C044-E025,C044,Michele Lopez,Clerk,2024-11-28,EDI,0
+C044-E026,C044,Valerie Willis,HR Assistant,2025-03-17,EDI,0
+C045-E001,C045,Samantha Clark,Clerk,2025-01-10,EDI,0
+C045-E002,C045,April Tapia,Technician,2025-01-19,Manual,0
+C045-E003,C045,Karen Taylor,Manager,2025-03-22,EDI,0
+C045-E004,C045,Lonnie Patton,HR Assistant,2025-01-27,EDI,0
+C045-E005,C045,Vincent Henderson,Manager,2024-12-28,Manual,0
+C045-E006,C045,Julie Brooks,HR Assistant,2025-01-27,Manual,0
+C045-E007,C045,Suzanne Young,Technician,2025-01-12,EDI,0
+C045-E008,C045,Sandra Davis,HR Assistant,2024-11-14,Manual,0
+C045-E009,C045,Michael Smith,HR Assistant,2024-11-22,Manual,0
+C045-E010,C045,Amanda Reynolds,Manager,2025-02-22,EDI,0
+C045-E011,C045,Brian Dominguez,Technician,2024-10-16,Manual,0
+C045-E012,C045,David Weaver,HR Assistant,2025-01-28,EDI,0
+C045-E013,C045,Michael Brown,HR Assistant,2024-12-12,EDI,0
+C045-E014,C045,Debbie Perry,Clerk,2025-03-18,EDI,0
+C045-E015,C045,Miguel Lynch,Manager,2024-10-16,EDI,0
+C045-E016,C045,Joshua Horton,Clerk,2025-02-27,EDI,0
+C045-E017,C045,Mary West,Manager,2025-03-08,Manual,0
+C045-E018,C045,Sara Evans,Technician,2024-10-16,EDI,0
+C045-E019,C045,Michael Thomas,Clerk,2024-11-25,EDI,0
+C045-E020,C045,Mary Lam,HR Assistant,2024-10-31,Manual,0
+C045-E021,C045,Jaime Ballard,Manager,2024-12-07,EDI,0
+C046-E001,C046,Joseph Smith,Technician,2025-02-09,Manual,0
+C046-E002,C046,Beverly Pena,Manager,2025-01-13,EDI,0
+C046-E003,C046,Kathleen Clark,Technician,2025-03-26,EDI,0
+C046-E004,C046,Aaron Sellers,Manager,2025-01-26,EDI,0
+C046-E005,C046,Susan Sherman,Technician,2025-01-04,EDI,0
+C046-E006,C046,Joseph Costa,Technician,2025-01-04,EDI,0
+C046-E007,C046,Shelby Parsons,Clerk,2024-11-02,EDI,0
+C046-E008,C046,James Miranda,Technician,2025-03-23,Manual,0
+C046-E009,C046,Jeffrey Turner MD,HR Assistant,2025-03-22,EDI,0
+C046-E010,C046,Regina Ramos,Clerk,2024-10-31,EDI,0
+C046-E011,C046,Sandra Johnson,Technician,2024-10-20,Manual,0
+C046-E012,C046,Denise Villa,Manager,2024-11-19,EDI,0
+C046-E013,C046,Ashley Anderson,HR Assistant,2025-03-24,EDI,0
+C046-E014,C046,Hannah King,Clerk,2025-04-15,EDI,0
+C046-E015,C046,Sarah Williams,Clerk,2024-11-23,EDI,0
+C046-E016,C046,Mark Luna,Manager,2024-11-12,Manual,0
+C046-E017,C046,Ashlee Berg,HR Assistant,2024-10-29,EDI,0
+C046-E018,C046,Joseph Stevens,HR Assistant,2025-01-16,EDI,0
+C046-E019,C046,Margaret Cox,HR Assistant,2025-01-27,Manual,0
+C046-E020,C046,Amber Medina,HR Assistant,2024-12-18,EDI,0
+C046-E021,C046,Kimberly Weiss,Manager,2025-01-27,EDI,0
+C046-E022,C046,Megan Snyder,Manager,2025-03-25,Manual,0
+C046-E023,C046,Deborah Gutierrez,Clerk,2025-02-23,Manual,0
+C046-E024,C046,Faith Hendrix,Manager,2024-12-23,EDI,1
+C046-E025,C046,Sydney Williams,Clerk,2025-03-30,Manual,0
+C046-E026,C046,Gloria Ellis,Clerk,2024-11-22,EDI,0
+C046-E027,C046,Kayla Daniel,Clerk,2024-11-21,Manual,0
+C046-E028,C046,Brian Wilson,Manager,2025-04-05,EDI,0
+C046-E029,C046,Andrew Hardin,HR Assistant,2024-12-23,Manual,0
+C047-E001,C047,Charles Drake,Clerk,2025-01-28,EDI,0
+C047-E002,C047,Amanda Kramer,Technician,2024-10-27,Manual,0
+C047-E003,C047,Chris Franklin,Technician,2025-02-25,EDI,0
+C047-E004,C047,Sara Kirby,Technician,2025-03-22,EDI,0
+C047-E005,C047,Rhonda Ward,Manager,2025-02-11,EDI,0
+C047-E006,C047,Kevin Taylor,Clerk,2025-02-11,EDI,0
+C047-E007,C047,Donna Alexander,Technician,2024-11-04,EDI,0
+C047-E008,C047,Lori Hickman,Technician,2025-04-08,Manual,0
+C047-E009,C047,Jennifer Ryan,Manager,2025-03-11,Manual,0
+C047-E010,C047,Brian Hogan,HR Assistant,2024-11-28,Manual,0
+C047-E011,C047,Julia Bonilla,Clerk,2024-12-21,EDI,1
+C047-E012,C047,Lauren Hall,HR Assistant,2025-03-25,Manual,0
+C047-E013,C047,Amy Reed,Manager,2024-11-10,EDI,0
+C047-E014,C047,Karen Martinez,HR Assistant,2025-01-09,EDI,0
+C047-E015,C047,Rebecca Martinez,Clerk,2024-10-16,Manual,0
+C047-E016,C047,Brian Sullivan,Clerk,2024-11-20,EDI,0
+C047-E017,C047,Seth Mccarthy,Clerk,2024-12-27,EDI,0
+C047-E018,C047,Ryan Burgess,Manager,2025-03-04,Manual,0
+C047-E019,C047,Emily Price,HR Assistant,2024-10-20,EDI,0
+C048-E001,C048,Latasha Benson,Manager,2024-10-22,Manual,0
+C048-E002,C048,Kimberly Gonzales,Clerk,2025-01-07,EDI,0
+C048-E003,C048,Michael Walker,Technician,2025-03-02,EDI,0
+C048-E004,C048,Robert Douglas,HR Assistant,2025-01-11,EDI,0
+C048-E005,C048,Stephanie Cline,Manager,2025-03-30,EDI,0
+C048-E006,C048,Kristi Petty,Clerk,2024-11-24,Manual,0
+C048-E007,C048,Michael Williams,HR Assistant,2025-04-08,EDI,1
+C048-E008,C048,Christopher Kelly,Technician,2025-03-20,Manual,0
+C048-E009,C048,Kathleen Lopez,Technician,2025-01-01,EDI,0
+C048-E010,C048,Nicholas Santos,Manager,2025-03-18,EDI,0
+C049-E001,C049,William Mason,Technician,2024-10-31,EDI,0
+C049-E002,C049,Melinda Phillips,HR Assistant,2024-12-11,EDI,0
+C049-E003,C049,David Dominguez,HR Assistant,2024-10-29,Manual,0
+C049-E004,C049,Meghan Montoya,Manager,2025-02-04,EDI,0
+C049-E005,C049,Natalie Stone,Clerk,2025-03-02,EDI,0
+C049-E006,C049,Alexis Martinez DDS,Clerk,2024-11-14,Manual,0
+C049-E007,C049,Kathy Bernard,Technician,2025-01-24,Manual,0
+C049-E008,C049,Kevin Bennett,Technician,2024-10-31,Manual,0
+C049-E009,C049,Matthew English,HR Assistant,2024-10-29,EDI,0
+C049-E010,C049,Meghan Miller,Clerk,2025-01-24,EDI,0
+C049-E011,C049,Rachel Blankenship,HR Assistant,2025-02-22,EDI,0
+C049-E012,C049,Darren Gardner,Clerk,2025-03-17,EDI,0
+C049-E013,C049,Oscar Smith,HR Assistant,2024-11-27,EDI,0
+C049-E014,C049,Jeffrey Mcneil,Clerk,2024-10-28,EDI,0
+C049-E015,C049,Tara Cook,Technician,2024-10-27,Manual,0
+C049-E016,C049,Barbara Schneider,Technician,2025-04-08,EDI,0
+C049-E017,C049,Michelle Glover,HR Assistant,2024-12-07,EDI,1
+C049-E018,C049,Ryan Koch,Manager,2025-03-31,EDI,0
+C049-E019,C049,Ryan Ellis,Clerk,2025-01-17,EDI,0
+C049-E020,C049,Tasha Miller,Clerk,2024-12-21,Manual,0
+C049-E021,C049,Debra Miller,Technician,2024-11-16,EDI,0
+C049-E022,C049,Brian Mason,HR Assistant,2024-10-27,EDI,0
+C049-E023,C049,Carmen Miller,Clerk,2025-03-15,EDI,0
+C049-E024,C049,Sarah Wilson,HR Assistant,2024-12-03,EDI,0
+C049-E025,C049,Andre Braun,HR Assistant,2024-12-17,EDI,0
+C050-E001,C050,Joann Patterson,Manager,2025-03-16,EDI,1
+C050-E002,C050,Cheryl Powers,HR Assistant,2025-03-15,EDI,0
+C050-E003,C050,Stephanie Copeland,Manager,2025-04-02,EDI,0
+C050-E004,C050,Michael Jenkins,Manager,2025-03-04,EDI,0
+C050-E005,C050,Andrew Campbell,Technician,2025-04-08,EDI,0
+C050-E006,C050,Mark Richardson,Manager,2025-01-25,EDI,0
+C050-E007,C050,Kenneth Chavez,HR Assistant,2025-01-10,EDI,0
+C050-E008,C050,Derrick Ferguson,Clerk,2024-11-16,Manual,0
+C050-E009,C050,Michael Thomas,HR Assistant,2025-02-26,EDI,0
+C050-E010,C050,Gregory Navarro DDS,Manager,2025-02-09,Manual,0
+C050-E011,C050,Sandra Baird,Manager,2024-10-21,EDI,0
+C050-E012,C050,Amber Perez,Technician,2024-11-07,Manual,0
+C050-E013,C050,Scott White,Clerk,2025-04-09,Manual,0
+C050-E014,C050,Victor Wilkins,Technician,2025-02-14,EDI,0
+C050-E015,C050,Debra Adkins,Clerk,2025-02-25,EDI,0
+C050-E016,C050,Hailey Wilson,Clerk,2025-03-07,Manual,0
+C050-E017,C050,Michael Herrera,Manager,2024-11-22,Manual,0
+C050-E018,C050,Andrew Williams,Technician,2025-04-01,EDI,0
+C050-E019,C050,Misty Elliott,Clerk,2024-10-29,EDI,0

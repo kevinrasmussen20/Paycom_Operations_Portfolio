@@ -1,0 +1,51 @@
+ClientID,Industry,ClientType,ImplementationOwner,OnboardingSLA,DocumentsPending,OnboardingStartDate,TargetGoLiveDate,OnboardingStage,PercentComplete,Actual Duration (Days)
+C001,Healthcare,Small Biz,Jane Smith,45,4,2025-03-07,2025-05-29,First Payroll Complete,33,69
+C002,Retail,Small Biz,Tanya Wells,30,2,2025-02-16,2025-03-31,System Setup,33,76
+C003,Manufacturing,Startup,Tanya Wells,60,1,2025-03-11,2025-03-26,Parallel Payroll Test,33,60
+C004,Retail,Startup,Tanya Wells,30,3,2025-02-12,2025-03-11,Parallel Payroll Test,66,28
+C005,Healthcare,Enterprise,Marcus Lee,45,2,2025-01-23,2025-01-26,Data Collection,33,60
+C006,Manufacturing,Enterprise,Jane Smith,30,2,2025-03-21,2025-03-27,Parallel Payroll Test,66,58
+C007,Healthcare,Small Biz,Alex Kim,45,5,2025-01-20,2025-03-07,Parallel Payroll Test,33,96
+C008,Retail,Enterprise,Marcus Lee,60,4,2025-04-13,2025-06-03,System Setup,66,117
+C009,Retail,Small Biz,Jane Smith,60,5,2025-03-19,2025-04-15,Parallel Payroll Test,33,70
+C010,Retail,Enterprise,Marcus Lee,30,2,2025-01-31,2025-02-27,Parallel Payroll Test,66,57
+C011,Healthcare,Franchise,Alex Kim,45,4,2025-04-11,2025-06-14,First Payroll Complete,0,79
+C012,Manufacturing,Enterprise,Jane Smith,30,4,2025-03-28,2025-05-19,Parallel Payroll Test,100,76
+C013,Retail,Startup,Tanya Wells,60,2,2025-04-17,2025-04-29,First Payroll Complete,66,44
+C014,Retail,Small Biz,Alex Kim,45,3,2025-03-25,2025-05-07,Data Collection,66,85
+C015,Manufacturing,Small Biz,Marcus Lee,30,0,2025-02-26,2025-04-22,System Setup,0,76
+C016,Finance,Small Biz,Alex Kim,60,5,2025-03-15,2025-03-23,System Setup,33,21
+C017,Finance,Small Biz,Tanya Wells,60,5,2025-02-08,2025-05-24,System Setup,100,119
+C018,Manufacturing,Small Biz,Alex Kim,30,1,2025-03-08,2025-03-23,System Setup,100,47
+C019,Retail,Startup,Marcus Lee,60,2,2025-02-06,2025-04-27,System Setup,66,101
+C020,Healthcare,Startup,Alex Kim,45,4,2025-03-07,2025-05-31,Data Collection,0,67
+C021,Finance,Startup,Marcus Lee,30,5,2025-02-12,2025-03-03,Parallel Payroll Test,100,64
+C022,Manufacturing,Enterprise,Tanya Wells,60,0,2025-04-13,2025-05-04,First Payroll Complete,66,65
+C023,Healthcare,Startup,Alex Kim,30,2,2025-03-29,2025-06-06,Parallel Payroll Test,33,39
+C024,Manufacturing,Startup,Alex Kim,60,0,2025-03-12,2025-04-21,Data Collection,100,25
+C025,Retail,Small Biz,Marcus Lee,30,2,2025-01-29,2025-04-27,Parallel Payroll Test,0,18
+C026,Healthcare,Startup,Marcus Lee,45,5,2025-04-06,2025-05-09,First Payroll Complete,33,13
+C027,Finance,Enterprise,Tanya Wells,45,2,2025-03-17,2025-03-22,System Setup,66,82
+C028,Finance,Enterprise,Jane Smith,30,5,2025-03-01,2025-03-06,Data Collection,66,21
+C029,Retail,Startup,Tanya Wells,30,5,2025-02-15,2025-05-10,Parallel Payroll Test,33,67
+C030,Healthcare,Franchise,Tanya Wells,30,5,2025-01-29,2025-03-06,Data Collection,66,11
+C031,Healthcare,Enterprise,Alex Kim,30,2,2025-03-19,2025-03-29,System Setup,66,60
+C032,Finance,Small Biz,Tanya Wells,45,2,2025-01-19,2025-03-29,Data Collection,66,58
+C033,Retail,Enterprise,Marcus Lee,30,0,2025-02-07,2025-02-19,Parallel Payroll Test,0,31
+C034,Finance,Small Biz,Marcus Lee,30,1,2025-04-10,2025-05-18,Data Collection,33,38
+C035,Healthcare,Enterprise,Tanya Wells,60,0,2025-04-17,2025-06-08,Data Collection,0,108
+C036,Retail,Enterprise,Marcus Lee,45,4,2025-02-16,2025-04-11,System Setup,66,14
+C037,Retail,Enterprise,Tanya Wells,60,3,2025-01-22,2025-03-13,First Payroll Complete,33,40
+C038,Manufacturing,Franchise,Jane Smith,60,4,2025-02-15,2025-04-07,System Setup,33,83
+C039,Healthcare,Startup,Alex Kim,45,3,2025-03-05,2025-04-13,Data Collection,0,45
+C040,Healthcare,Small Biz,Jane Smith,45,1,2025-03-31,2025-05-19,Data Collection,33,57
+C041,Retail,Enterprise,Jane Smith,45,5,2025-04-04,2025-05-15,System Setup,66,22
+C042,Retail,Enterprise,Alex Kim,45,2,2025-03-02,2025-04-27,Parallel Payroll Test,0,98
+C043,Healthcare,Franchise,Marcus Lee,45,2,2025-03-01,2025-04-14,Parallel Payroll Test,33,73
+C044,Retail,Franchise,Tanya Wells,45,1,2025-03-08,2025-06-06,Data Collection,100,91
+C045,Finance,Enterprise,Tanya Wells,60,1,2025-03-21,2025-04-04,Parallel Payroll Test,33,103
+C046,Healthcare,Startup,Alex Kim,30,4,2025-02-07,2025-03-02,System Setup,100,46
+C047,Healthcare,Small Biz,Marcus Lee,30,3,2025-03-09,2025-04-17,System Setup,100,75
+C048,Retail,Enterprise,Tanya Wells,60,3,2025-03-30,2025-04-12,Data Collection,33,111
+C049,Finance,Startup,Alex Kim,45,1,2025-03-22,2025-04-25,First Payroll Complete,0,45
+C050,Healthcare,Enterprise,Tanya Wells,30,4,2025-03-05,2025-05-20,Data Collection,0,31

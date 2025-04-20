@@ -1,0 +1,51 @@
+ClientID,Industry,ClientType,ImplementationOwner,OnboardingSLA,DocumentsPending,OnboardingStartDate,TargetGoLiveDate,OnboardingStage,PercentComplete,Actual Duration (Days),Email (XLOOKUP from sales_leads),RFP Status (XLOOKUP from Pipeline),Employee Position (XLOOKUP from employees),SLA Status (IF Statement),Bottleneck Flag (IF + AND)
+C001,Healthcare,Small Biz,Jane Smith,45,4,3/7/2025,5/29/2025,First Payroll Complete,33,69,jonesjennifer@example.com,Not Found,Manager,Late,Bottleneck
+C002,Retail,Small Biz,Tanya Wells,30,2,2/16/2025,3/31/2025,System Setup,33,76,bakerlisa@example.org,Lost,HR Assistant,Late,
+C003,Manufacturing,Startup,Tanya Wells,60,1,3/11/2025,3/26/2025,Parallel Payroll Test,33,60,chris61@example.com,Won,Technician,On Time,
+C004,Retail,Startup,Tanya Wells,30,3,2/12/2025,3/11/2025,Parallel Payroll Test,66,28,jessica02@example.net,Submitted,HR Assistant,On Time,
+C005,Healthcare,Enterprise,Marcus Lee,45,2,1/23/2025,1/26/2025,Data Collection,33,60,gloriajones@example.net,Lost,Technician,Late,
+C006,Manufacturing,Enterprise,Jane Smith,30,2,3/21/2025,3/27/2025,Parallel Payroll Test,66,58,olee@example.org,Won,HR Assistant,Late,
+C007,Healthcare,Small Biz,Alex Kim,45,5,1/20/2025,3/7/2025,Parallel Payroll Test,33,96,dblackwell@example.org,Pending,Technician,Late,Bottleneck
+C008,Retail,Enterprise,Marcus Lee,60,4,4/13/2025,6/3/2025,System Setup,66,117,jordanharper@example.org,Won,Clerk,Late,
+C009,Retail,Small Biz,Jane Smith,60,5,3/19/2025,4/15/2025,Parallel Payroll Test,33,70,vazquezkelly@example.org,Not Found,Technician,Late,Bottleneck
+C010,Retail,Enterprise,Marcus Lee,30,2,1/31/2025,2/27/2025,Parallel Payroll Test,66,57,phillip73@example.net,Pending,HR Assistant,Late,
+C011,Healthcare,Franchise,Alex Kim,45,4,4/11/2025,6/14/2025,First Payroll Complete,0,79,ssantiago@example.net,Submitted,Manager,Late,Bottleneck
+C012,Manufacturing,Enterprise,Jane Smith,30,4,3/28/2025,5/19/2025,Parallel Payroll Test,100,76,jmckee@example.org,Pending,Clerk,Late,
+C013,Retail,Startup,Tanya Wells,60,2,4/17/2025,4/29/2025,First Payroll Complete,66,44,lisa75@example.org,Pending,Clerk,On Time,
+C014,Retail,Small Biz,Alex Kim,45,3,3/25/2025,5/7/2025,Data Collection,66,85,hernandezmichael@example.net,Pending,Manager,Late,
+C015,Manufacturing,Small Biz,Marcus Lee,30,0,2/26/2025,4/22/2025,System Setup,0,76,andrew12@example.com,Lost,Technician,Late,
+C016,Finance,Small Biz,Alex Kim,60,5,3/15/2025,3/23/2025,System Setup,33,21,michellerosales@example.org,Lost,HR Assistant,On Time,Bottleneck
+C017,Finance,Small Biz,Tanya Wells,60,5,2/8/2025,5/24/2025,System Setup,100,119,dholmes@example.org,Pending,Technician,Late,
+C018,Manufacturing,Small Biz,Alex Kim,30,1,3/8/2025,3/23/2025,System Setup,100,47,mpalmer@example.org,Lost,HR Assistant,Late,
+C019,Retail,Startup,Marcus Lee,60,2,2/6/2025,4/27/2025,System Setup,66,101,paullopez@example.com,Lost,Clerk,Late,
+C020,Healthcare,Startup,Alex Kim,45,4,3/7/2025,5/31/2025,Data Collection,0,67,ktaylor@example.com,Lost,Clerk,Late,Bottleneck
+C021,Finance,Startup,Marcus Lee,30,5,2/12/2025,3/3/2025,Parallel Payroll Test,100,64,eric25@example.net,Submitted,HR Assistant,Late,
+C022,Manufacturing,Enterprise,Tanya Wells,60,0,4/13/2025,5/4/2025,First Payroll Complete,66,65,xjensen@example.org,Lost,HR Assistant,Late,
+C023,Healthcare,Startup,Alex Kim,30,2,3/29/2025,6/6/2025,Parallel Payroll Test,33,39,karensimpson@example.com,Lost,HR Assistant,Late,
+C024,Manufacturing,Startup,Alex Kim,60,0,3/12/2025,4/21/2025,Data Collection,100,25,kmiller@example.com,Not Found,HR Assistant,On Time,
+C025,Retail,Small Biz,Marcus Lee,30,2,1/29/2025,4/27/2025,Parallel Payroll Test,0,18,jhood@example.org,Pending,Technician,On Time,
+C026,Healthcare,Startup,Marcus Lee,45,5,4/6/2025,5/9/2025,First Payroll Complete,33,13,jenna37@example.org,Won,Clerk,On Time,Bottleneck
+C027,Finance,Enterprise,Tanya Wells,45,2,3/17/2025,3/22/2025,System Setup,66,82,rdavis@example.net,Pending,HR Assistant,Late,
+C028,Finance,Enterprise,Jane Smith,30,5,3/1/2025,3/6/2025,Data Collection,66,21,mduran@example.com,Pending,Clerk,On Time,
+C029,Retail,Startup,Tanya Wells,30,5,2/15/2025,5/10/2025,Parallel Payroll Test,33,67,hadams@example.org,Won,Clerk,Late,Bottleneck
+C030,Healthcare,Franchise,Tanya Wells,30,5,1/29/2025,3/6/2025,Data Collection,66,11,cford@example.net,Won,HR Assistant,On Time,
+C031,Healthcare,Enterprise,Alex Kim,30,2,3/19/2025,3/29/2025,System Setup,66,60,susan43@example.com,Lost,HR Assistant,Late,
+C032,Finance,Small Biz,Tanya Wells,45,2,1/19/2025,3/29/2025,Data Collection,66,58,brittanymcdonald@example.org,Submitted,Manager,Late,
+C033,Retail,Enterprise,Marcus Lee,30,0,2/7/2025,2/19/2025,Parallel Payroll Test,0,31,0,Won,Technician,Late,
+C034,Finance,Small Biz,Marcus Lee,30,1,4/10/2025,5/18/2025,Data Collection,33,38,dustin75@example.net,Pending,Technician,Late,
+C035,Healthcare,Enterprise,Tanya Wells,60,0,4/17/2025,6/8/2025,Data Collection,0,108,garzaadam@example.com,Not Found,Manager,Late,
+C036,Retail,Enterprise,Marcus Lee,45,4,2/16/2025,4/11/2025,System Setup,66,14,johnsonhannah@example.net,Not Found,HR Assistant,On Time,
+C037,Retail,Enterprise,Tanya Wells,60,3,1/22/2025,3/13/2025,First Payroll Complete,33,40,butlerkelly@example.net,Submitted,Manager,On Time,Bottleneck
+C038,Manufacturing,Franchise,Jane Smith,60,4,2/15/2025,4/7/2025,System Setup,33,83,shari98@example.net,Won,Clerk,Late,Bottleneck
+C039,Healthcare,Startup,Alex Kim,45,3,3/5/2025,4/13/2025,Data Collection,0,45,josesmith@example.org,Submitted,Manager,On Time,Bottleneck
+C040,Healthcare,Small Biz,Jane Smith,45,1,3/31/2025,5/19/2025,Data Collection,33,57,hmorris@example.net,Not Found,Manager,Late,
+C041,Retail,Enterprise,Jane Smith,45,5,4/4/2025,5/15/2025,System Setup,66,22,padillaeric@example.com,Pending,Manager,On Time,
+C042,Retail,Enterprise,Alex Kim,45,2,3/2/2025,4/27/2025,Parallel Payroll Test,0,98,margaretcruz@example.org,Submitted,Technician,Late,
+C043,Healthcare,Franchise,Marcus Lee,45,2,3/1/2025,4/14/2025,Parallel Payroll Test,33,73,mckenzie03@example.org,Lost,HR Assistant,Late,
+C044,Retail,Franchise,Tanya Wells,45,1,3/8/2025,6/6/2025,Data Collection,100,91,jesse34@example.org,Won,Clerk,Late,
+C045,Finance,Enterprise,Tanya Wells,60,1,3/21/2025,4/4/2025,Parallel Payroll Test,33,103,bwaller@example.com,Won,Clerk,Late,
+C046,Healthcare,Startup,Alex Kim,30,4,2/7/2025,3/2/2025,System Setup,100,46,khuynh@example.com,Lost,Technician,Late,
+C047,Healthcare,Small Biz,Marcus Lee,30,3,3/9/2025,4/17/2025,System Setup,100,75,sherrypierce@example.com,Lost,Clerk,Late,
+C048,Retail,Enterprise,Tanya Wells,60,3,3/30/2025,4/12/2025,Data Collection,33,111,pcherry@example.org,Won,Manager,Late,Bottleneck
+C049,Finance,Startup,Alex Kim,45,1,3/22/2025,4/25/2025,First Payroll Complete,0,45,tracy44@example.com,Submitted,Technician,On Time,
+C050,Healthcare,Enterprise,Tanya Wells,30,4,3/5/2025,5/20/2025,Data Collection,0,31,amcknight@example.org,Not Found,Manager,Late,Bottleneck
